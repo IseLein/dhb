@@ -23,6 +23,27 @@ def print_hymn(hymn, title, bible_ref, key, verses, chorus, meta_text, meta_musi
     print("Up: ", meta_up)
     print("Down: ", meta_down)
 
+def export_to_file(hymn, title, bible_ref, key, verses, chorus, meta_text, meta_music, meta_up, meta_down):
+    # open file for hymn and write as json
+    with open('hymns-json/' + str(hymn) + '.json', 'w') as file:
+        file.write('{\n')
+        file.write('"hymn": ' + str(hymn) + ',\n')
+        file.write('"title": "' + title + '",\n')
+        file.write('"bible_ref": "' + bible_ref + '",\n')
+        file.write('"key": "' + key + '",\n')
+        file.write('"verses": [\n')
+        for i in range(len(verses)):
+            file.write('"' + verses[i] + '"')
+            if i < len(verses) - 1:
+                file.write(',\n')
+        file.write('],\n')
+        file.write('"chorus": "' + chorus + '",\n')
+        file.write('"meta_text": "' + meta_text + '",\n')
+        file.write('"meta_music": "' + meta_music + '",\n')
+        file.write('"meta_up": "' + meta_up + '",\n')
+        file.write('"meta_down": "' + meta_down + '"\n')
+        file.write('}')
+
 hymns = []
 with open('hymn-book.txt', 'r') as file:
     hymns = file.read().split('\n')
@@ -52,8 +73,8 @@ while i < len(hymns):
     i += 1
     # TODO: remove this
     # print(line)
-    if hymn > 5:
-        break
+    # if hymn > 15:
+    #     break
 
     if line == '':
         if in_chorus == 0 and verse == 1:
@@ -68,7 +89,10 @@ while i < len(hymns):
             in_title = False
             continue
         else:
-            bible_ref += line
+            if bible_ref == '':
+                bible_ref += line
+            else:
+                bible_ref += (' ' + line)
             continue
 
     if line[0].isdigit():
@@ -76,13 +100,15 @@ while i < len(hymns):
         if line_content.isupper():  # new hymn
             if hymn > 0:
                 verses.append(text)
-                print_hymn(hymn, title, bible_ref, key, verses, chorus, meta_text, meta_music, meta_up, meta_down)
+                export_to_file(hymn, title, bible_ref, key, verses, chorus, meta_text, meta_music, meta_up, meta_down)
             assert hymn == num - 1
             hymn = num
             verse = 0
             verses = []
             in_chorus = 0
             in_title = True
+            chorus = ''
+            bible_ref = ''
             meta_music = ''
             meta_text = ''
             meta_up = ''
@@ -96,13 +122,16 @@ while i < len(hymns):
             text = ''
             assert verse == num - 1
             verse = num
-            text = line_content + '\n'
+            text = line_content
             if verse > 1:
                 in_chorus = 2
             continue
 
     if in_chorus == 1:
-        chorus += line
+        if chorus == '':
+            chorus += line
+        else:
+            chorus += ('=' + line)
         continue
 
     if line[:5].lower() == 'text:':
@@ -120,7 +149,12 @@ while i < len(hymns):
         else:
             meta_down = sp[0].strip()
             meta_music = ''
+        
+        if hymn == 225:
+            verses.append(text)
+            export_to_file(hymn, title, bible_ref, key, verses, chorus, meta_text, meta_music, meta_up, meta_down)
+            break
         continue
 
 
-    text += (line + '\n')
+    text += ('=' + line)

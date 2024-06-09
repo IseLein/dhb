@@ -592,7 +592,7 @@ Music: Henry A. Cesar Malan;           7.7.7.7.7.
     Create in me a new heart O God
     And renew a right Spirit within me
 
-2.  Cast me not a way from Your Presence O Lord
+    Cast me not a way from Your Presence O Lord
     Take not Your Holy Spirit from me
     Restore unto me, the Joy of your salvation
     And renew a right Spirit within me.
@@ -900,8 +900,8 @@ Music: David Livingstone Ives;             8.7.8.7.8.8.8.7.
 
 
 
-         ALL THAT I NEED
-19.      You are my Lord, apart from You I
+19.      ALL THAT I NEED
+         You are my Lord, apart from You I
          have no good thing. Psalm 16:2
                                                  KEY G
 
@@ -1370,6 +1370,7 @@ Music: Peace House Singing Team, Gboko.
     And the earth by thy great power
     Ah Lord God! Thou hast made the heaven
     And the earth by thy stretched out arm,
+    
     Nothing is too difficult for thee:
     Nothing is too difficult for thee:
     Great and mighty God
@@ -2433,8 +2434,8 @@ Music: Harper G. Smyth;                        Irregular
    Nothing else in all the world beside,
    O then every thing is mine in Jesus
    For my needs and more He will provide.
-Text: Anna Olander,                       TRUE RICHES
-Music: Tr. Composite                     Swedish Melody
+Text: Anna Olander;                       TRUE RICHES
+Music: Tr. Composite;                    Swedish Melody
 
 
 
@@ -2765,8 +2766,8 @@ Music: R. Maines Rawls;                           Irregular
    Open our ears, Lord, and help us to listen,
    Open our eyes, Lord
    We want to see Jesus.
-Text: Robert Cull,                               OPEN OUR EYES
-Music: Robert Cull,                                 Irregular
+Text: Robert Cull;                               OPEN OUR EYES
+Music: Robert Cull;                                 Irregular
 
 
 
@@ -2916,8 +2917,8 @@ Music: Ralf E. Hudson;                        8.6.8.6. (C.M.)
    For the Spirit and the Word,
    And repeat the gospel story
    Till the world His name has heard.
-Text: Eva B. Lloyd,                       BEACH SPRING
-Music: Sacred Harp, 1844,                    8.7.8.7.D
+Text: Eva B. Lloyd;                       BEACH SPRING
+Music: Sacred Harp, 1844;                    8.7.8.7.D
 
 
 
@@ -2997,8 +2998,8 @@ Music: Sacred Harp, 1844,                    8.7.8.7.D
    Rolling in fullest pride
    Through the earth far and wide
    Let there be light
-Text : Bourne H. Draper,                   ITALIAN HYMN
-Music: John Hatton,                          6.6.4.6.6.6.4
+Text : Bourne H. Draper;                   ITALIAN HYMN
+Music: John Hatton;                          6.6.4.6.6.6.4
 87.    AND CAN IT BE THAT I SHOULD GAIN
        For God hath not appointed us to wrath, but... salvation,
        by our Lord Jesus Christ. - I Thes. 5:9
@@ -3049,7 +3050,7 @@ Text: Charles Wesley;                   SA GINA
 Music: Thomas Campbell;                8.8.8.8.8.8.
 88.    “ARE YE ABLE,” SAID THE MASTER
        Are ye able to drink of the cup that I shall
-       drink of . . . Matthew 20:20
+       drink of... Matthew 20:20
                                                       KEY Ab
 
 1. “Are ye able,” said the Master,
@@ -3139,9 +3140,11 @@ Music: Abel Abikiaje
     It is marvelous in my sight O Lord
     What you have done, have done for me
     It is marvelous in my sight O Lord
+
     Be glorified, be magnified
     It is marvelous in my sight O Lord
     It is marvelous in my sight O Lord
+
 Text: Abel Abikiaje
 Music: Abel Abikiaje
 92.     CLEANSE ME
@@ -3290,8 +3293,8 @@ Music: William J. Kirkpatrick;              10.9.10.9.10.9.
    Holy Spirit, flow out through me,
    Others, Lord, may see You in me,
    Holy Spirit, flow out through me.
-Text: Walt Mills,                                    MILLS
-Music: Walt Mills,                                   7.7.9.7
+Text: Walt Mills;                                    MILLS
+Music: Walt Mills;                                   7.7.9.7
 
 
 
@@ -3466,7 +3469,7 @@ Music: John W. Peterson
 
 
 Text: Lois Dehoff
-Music: Evelyn B. Lykens,              8.6.8.6.D
+Music: Evelyn B. Lykens;              8.6.8.6.D
 
 
 
@@ -3899,7 +3902,6 @@ Music: Abikiaje Abel;                         6.6.6.6.D
    My inner man broken and meek
    Living my all only for Thee,
    Until Thy blessed face I see.
-                                                     LORD SPEAK TO ME
 
 6. Oh, give thine own sweet rest to me,
    That I may speak with soothing power
@@ -3909,8 +3911,8 @@ Music: Abikiaje Abel;                         6.6.6.6.D
    Until my very heart o’er flow
    In kindling thought, and glowing word,
    Thy love to tell, Thy praise to show
-Text: Frances Havegal,                      CANONBURGY
-Music: Robert Schuman,                       8.8.8.8(L.M)
+Text: Frances Havegal;                      CANONBURGY
+Music: Robert Schuman;                       8.8.8.8(L.M)
 
 
 
@@ -3960,8 +3962,6 @@ Music: Robert Schuman,                       8.8.8.8(L.M)
    I’m satisfied fully for Jesus to live,
    Tho: friends may forsake me and trials arise,
    I’m trusting in Jesus, His love never dies.
-                                          IT PAYS TO SERVE JESUS
-
 
 5. There is no one like Jesus can cheer me today,
    His love and His kindness can ne’er fade away,
@@ -3981,7 +3981,7 @@ Music: Robert Schuman,                       8.8.8.8(L.M)
 
                                               KEY C
 
-   Thy throne, O God, Is for ever and ever:
+1. Thy throne, O God, Is for ever and ever:
    The sceptre of thy kingdom is a right sceptre.
    Thou lovest righteousness,
    And hatest wickedness:
@@ -4017,8 +4017,6 @@ Music: Robert Schuman,                       8.8.8.8(L.M)
    And that Thy will be done;
    Thy will, O Lord, be mine each day,
    While pressing on my homeward way.
-                                I WOULD NOT ASK FOR EARTHLY STORE
-
 
 4. And when at last, my labour o’er,
    I cross the narrow sea,
@@ -4027,7 +4025,7 @@ Music: Robert Schuman,                       8.8.8.8(L.M)
    And learn what here I cannot know,
    Why Thou hast ever loved me so.
 Text: Dr. J.j Maxfield
-Music: W.a. Ogden                8.6.8.6.8.8. with Refrain.
+Music: W.a. Ogden;               8.6.8.6.8.8. with Refrain.
 
 
 
@@ -4037,7 +4035,7 @@ Music: W.a. Ogden                8.6.8.6.8.8. with Refrain.
 
                                                       KEY C
 
-    I will call upon the Lord,
+1.  I will call upon the Lord,
     Who is worthy to be praised:
     I will call upon the Lord,
     Who is worthy to be praised:
@@ -4049,7 +4047,8 @@ Music: W.a. Ogden                8.6.8.6.8.8. with Refrain.
 121.       ONLY REMEMBERED
            For God is not unrighteous to forget your
            work and labour of love, which ye have
-           shewed toward his name... Heb 6:10          KEY Eb
+           shewed toward his name... Heb 6:10        
+                                                      KEY Eb
 1. Fading away like the stars of the morning
    Losing their light in the glorious sun
    Thus would we pass from the earth and its toiling
@@ -4079,7 +4078,8 @@ Music: Ira D. Sankey
 122.       CLOSE TO THEE
            He that sayeth he abideth in Him
            ought himself also to walk even as
-           He walked. I John 2:6                 KEY G
+           He walked. I John 2:6               
+                                                KEY G
 1. Thou, my everlasting portion,
    More than friend or life to me,
    All along my pilgrim journey,
@@ -4135,8 +4135,9 @@ Music: J. Vail;                              Irregular
    To those in darkness, send us, Lord, in your strength.
    To those unheeding, send us, Lord, in your strength
 Text: Howard S. Olson;                  YATURU TUNE
-           I AM DETERMINED
-124.       Lord, I will follow Thee wherever
+
+124.           I AM DETERMINED
+       Lord, I will follow Thee wherever
            thou goest. Luke 9:57.
                                                KEY Ab
 1. I am determined to follow Jesus,
@@ -4201,8 +4202,8 @@ Music: Bertha Mae Lillenas
     Jesus led me all the way;
     This my song through endless ages:
     Jesus led me all the way.
-Text: Fanny J. Crosby,            ALL THE WAY
-Music: Robert Lowry,                 8.7.8.7.
+Text: Fanny J. Crosby;            ALL THE WAY
+Music: Robert Lowry;                 8.7.8.7.
 
 
 
@@ -4286,7 +4287,8 @@ Music: W. H. Doane
    Be Thou my life and aim;
    Oh, make me daily through Thy grace,
    More meet to bear Thy name!
-Text: J.C. Lavater                        C.M.
+Text: J.C. Lavater;                       C.M.
+
 129.     I HAVE GIVEN UP ALL
          ...there is a friend that sticketh closer
          than a brother. Proverbs 18:24
@@ -4318,8 +4320,6 @@ Text: J.C. Lavater                        C.M.
    Just beyond its chilling tide,
    Blooms the Tree of Life immortal,
    And the living waters glide:
-                                                  I HAVE GIVEN UP ALL
-
     In that happy land of spirits,
     Are there stores of bliss untold,
     And the angels are awaiting,
@@ -4378,15 +4378,12 @@ Music: Robert Jackson;                     6.6.8.6.(S.M.)
    Now wash me, and I shall be whiter than snow
 
 5. Lord Jesus, Thou knowest I patiently wait;
-                          LORD JESUS I LONG TO BE PERFECTLY WHOLE
-
-
     Come now, and within me a new heart create
     To those who have sought Thee, Thou never said “No”
     Now wash me, and I shall be whiter than snow.
 
-Text: J. Nicholson                       FISCHER
-Music: W.G.                      11.11.11.11. with Refrain.
+Text: J. Nicholson;                      FISCHER
+Music: W.G.;                     11.11.11.11. with Refrain.
 
 
 
@@ -4394,7 +4391,8 @@ Music: W.G.                      11.11.11.11. with Refrain.
 132.       I GIVE ALL TO YOU
            Offer yourselves to God, as those who
            have been brought from death to life.
-           Romans 6:13                                KEY C
+           Romans 6:13                           
+                                                      KEY C
 1. I give all my service to You,
    I give all my service to You;
    No matter the cost or what others do,
@@ -4477,7 +4475,7 @@ Music: Asa Hull;                                      C.M.
 135.      GRANT ME A GENTLE HEART
           And God granted him that which he
           requested. 1 Chron. 4:10.
-
+                                    KEY XX
 1. Grant me a gentle heart,
    Soul calm and fixed on Thee
    Behaviour wholesome like,
@@ -4508,8 +4506,8 @@ Music: Asa Hull;                                      C.M.
    When all is said and done, to be like Christ.
 136.        FREE FROM THE LAW, O HAPPY CONDITION
             Christ redeemed us from … the law by becoming
-            a curse for us - Gal. 3:13                   b
-                                                         KEY E
+            a curse for us - Gal. 3:13                   
+                                                         KEY Eb
 1. Free from the law, O happy condition,
    Jesus hath bled, and there is remission;
    Cursed by the law and bruised by the fall,
@@ -5069,8 +5067,8 @@ Music: Stuart Townend
     Though feeble their lays,
     With true adoration
     Shall lisp to Thy praise.
-Text: Robert Grant                              LYONS
-Music: Attr. Johan Michael Hayon               10.10.11.11
+Text: Robert Grant;                             LYONS
+Music: Attr. Johan Michael Hayon;              10.10.11.11
 
 
 
@@ -5252,8 +5250,6 @@ Music: William J. Kinepratick;                  9.8.9.8. with Refrain
    All our sicknesses He bear
    And His risen life and fullness
    All His members still may share
-                                        JESUS ONLY IS OUR MESSAGE
-
 
 5. Jesus only is our power
    He is the gift of Pentecost
@@ -5314,8 +5310,6 @@ Music: James H. Burke
    And, watching unto prayer,
    Where duty calls, or danger,
    Be never wanting there.
-                                   STAND UP, STAND UP FOR JESUS
-
 
 4. Stand up, stand up for Jesus!
    The strife will not be long;
@@ -5325,8 +5319,8 @@ Music: James H. Burke
    A crown of life shall be;
    He with the King of glory
    Shall reigns eternally.
-Text: George Duffield, Jr.,            WEBB
-Music: George J. Webb,               7.6.7.6.D.
+Text: George Duffield, Jr.;            WEBB
+Music: George J. Webb;               7.6.7.6.D.
 
 
 
@@ -5428,8 +5422,6 @@ Music: Carl G. Glaser;                           8.6.8.6. (C.M)
    Don't forget that God in heaven answers prayer;
    He will make a way for you and will lead you safely thru;
    Take your burden to the Lord and leave it there.
-                                                      LEAVE IT THERE
-
 
 4. When your youthful days are gone
    And old age is stealing on,
@@ -5688,7 +5680,7 @@ Music: William G. Fischer;                          7.6.7.6.D
 173.     GIVE US O LORD THINE UNCTION
          But ye have an unction from the Holy One,
          and ye know all things. 1 John 2:20
-
+                                             KEY XX
 1. Give us o Lord, Thine unction
    Anoint us for Thy work
    Arise and set us in motion,
@@ -5748,8 +5740,6 @@ Music: William G. Fischer;                          7.6.7.6.D
    I will ever give to Thee.
    Songs of praises! Songs of praises!
    I will ever give to Thee.
-                                     GUIDE ME, O THOU GREAT JEHOVAH
-
 
 4. Saviour, come! We long to see Thee,
    Long to dwell with Thee above;
@@ -5759,8 +5749,8 @@ Music: William G. Fischer;                          7.6.7.6.D
    Take my waiting people home.
    Come, Lord Jesus! Come, Lord Jesus!
    Take my waiting people home.
-Text: William Williams,                       CWM ROHNDDA
-Music: John Hughes,                             8.7.8.7.8.7.7.
+Text: William Williams;                       CWM ROHNDDA
+Music: John Hughes;                             8.7.8.7.8.7.7.
 
 
 
@@ -5808,15 +5798,12 @@ Music: Abikiaje Abel
    Precious Saviour, still our refuge,-
    Take it to the Lord in prayer,
    Do thy friends despise, forsake thee?
-                                           WHAT A FRIEND WE HAVE IN JESUS
-
-
    Take it to the Lord in prayer;
    In His arms He'll take and shield thee,
    Thou wilt find a solace there.
 
-Text: Joseph Scriven,                         CONVERSE
-Music: Charles C. CONVERSE,                    8.7.8.7.D
+Text: Joseph Scriven;                         CONVERSE
+Music: Charles C. CONVERSE;                    8.7.8.7.D
 
 
 
@@ -6408,8 +6395,8 @@ Music: Horatio R. Palmer;              6.5.6.5 D. with Refrain
    Thy friends in thy conduct
    His likeness shall see.
 
-Text: William D. Longstaff                           HOLINESS
-Music: George C. Stebbins                            6.5.6.5.D.
+Text: William D. Longstaff;                          HOLINESS
+Music: George C. Stebbins;                           6.5.6.5.D.
 
 
 
@@ -6747,7 +6734,7 @@ Music: George Beverly Shea;               11.11.11.10 with Refrain
    Thick darkness broodeth yet;
    Arise, O Morning Star,
    Arise, and never set.
-Text: Lewis Hensley                         ST. CECILIA
+Text: Lewis Hensley;                        ST. CECILIA
 Music: Leighton G. Hayne;
 206.      JESUS SHALL REIGN WHERE'ER THE SUN
           For unto us a child is born, unto us a son is given:
@@ -6858,8 +6845,8 @@ Music: B. B. McKinney;                       Irregular
    And shout, while passing through the air,
    “Farewell, farewell, sweet hour of prayer!”
 
-Text: William Walford                        SWEET HOUR
-Music: William B. Bradbury                 8.8.8.8.D (L.M.D.)
+Text: William Walford;                       SWEET HOUR
+Music: William B. Bradbury;                8.8.8.8.D (L.M.D.)
 
 
 
