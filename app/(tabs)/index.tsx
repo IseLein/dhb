@@ -7,7 +7,11 @@ export default function HomeScreen() {
             height: '100%',
             paddingTop: Platform.OS === "android" ? StatusBar.currentHeight : 0,
         }}>
-            <Text>Hymns</Text>
+            <View style={{
+                flexDirection: 'row',
+            }}>
+                <Text>Disciples Hymn Book</Text>
+            </View>
         </View>
     )
 }

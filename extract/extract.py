@@ -149,12 +149,11 @@ while i < len(hymns):
         else:
             meta_down = sp[0].strip()
             meta_music = ''
-        
+
         if hymn == 225:
             verses.append(text)
             export_to_file(hymn, title, bible_ref, key, verses, chorus, meta_text, meta_music, meta_up, meta_down)
             break
         continue
-
 
     text += ('=' + line)

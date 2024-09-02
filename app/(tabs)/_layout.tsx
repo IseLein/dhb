@@ -27,7 +27,7 @@ export default function TabLayout() {
         options={{
           title: "",
           tabBarIcon: ({ color, focused }) => (
-            <TabBarIcon name={'staro'} color={color} />
+            <TabBarIcon name={'speaker'} color={color} />
           ),
         }}
       />
@@ -36,7 +36,7 @@ export default function TabLayout() {
         options={{
           title: "",
           tabBarIcon: ({ color, focused }) => (
-            <TabBarIcon name={'ellipsis1'} color={color} />
+            <TabBarIcon name={'menu'} color={color} />
           ),
         }}
       />
