@@ -11,6 +11,7 @@ npm-debug.*
 web-build/
 
 .idea/
+assets/hymns-audio/
 
 # macOS
 .DS_Store
