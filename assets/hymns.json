@@ -31,10 +31,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Thomas A. Dorsey",
-    "meta_music": "George N. Allen",
-    "meta_up": "PRECIOUS LORD",
-    "meta_down": "6.6.9.D."
+    "author": "Thomas A. Dorsey",
+    "author_music": "George N. Allen",
+    "meta_title": "PRECIOUS LORD",
+    "meta_music": "6.6.9.D."
   },
   {
     "hymn": 2,
@@ -84,10 +84,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Dorothy A. Thrupp",
-    "meta_music": "William B. Bradburry",
-    "meta_up": "RADBURY",
-    "meta_down": "8.7.8.7.D."
+    "author": "Dorothy A. Thrupp",
+    "author_music": "William B. Bradburry",
+    "meta_title": "RADBURY",
+    "meta_music": "8.7.8.7.D."
   },
   {
     "hymn": 3,
@@ -104,10 +104,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Kelly Willard",
-    "meta_music": "Kelly Willard",
-    "meta_up": "SERVANT",
-    "meta_down": "Irregular"
+    "author": "Kelly Willard",
+    "author_music": "Kelly Willard",
+    "meta_title": "SERVANT",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 4,
@@ -135,10 +135,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Mark Pendergrass",
-    "meta_music": "Mark Pendergrass",
-    "meta_up": "THE GREATEST THING",
-    "meta_down": "Irregular"
+    "author": "Mark Pendergrass",
+    "author_music": "Mark Pendergrass",
+    "meta_title": "THE GREATEST THING",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 5,
@@ -172,10 +172,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Elizabeth P. Prentiss",
-    "meta_music": "William H. Doane",
-    "meta_up": "MORE LOVE TO THEE",
-    "meta_down": "6.4.6.4.6.6.4."
+    "author": "Elizabeth P. Prentiss",
+    "author_music": "William H. Doane",
+    "meta_title": "MORE LOVE TO THEE",
+    "meta_music": "6.4.6.4.6.6.4."
   },
   {
     "hymn": 6,
@@ -214,10 +214,10 @@
       "I'll follow my Christ who loves me so,",
       "Wherever He leads I'll go."
     ],
-    "meta_text": "B.B. McKinney",
-    "meta_music": "B.B. McKinney",
-    "meta_up": "FALLS CREEK",
-    "meta_down": "8.6.8.7 with Refrain"
+    "author": "B.B. McKinney",
+    "author_music": "B.B. McKinney",
+    "meta_title": "FALLS CREEK",
+    "meta_music": "8.6.8.7 with Refrain"
   },
   {
     "hymn": 7,
@@ -255,10 +255,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Lelia N. Morris",
-    "meta_music": "Lelia N. Morris",
-    "meta_up": "MORRIS",
-    "meta_down": "9.10.9.10.10"
+    "author": "Lelia N. Morris",
+    "author_music": "Lelia N. Morris",
+    "meta_title": "MORRIS",
+    "meta_music": "9.10.9.10.10"
   },
   {
     "hymn": 8,
@@ -310,10 +310,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Frances Ridley Havergal",
-    "meta_music": "Henry A. Cesar Malan",
-    "meta_up": "HENDON",
-    "meta_down": "7.7.7.7.7."
+    "author": "Frances Ridley Havergal",
+    "author_music": "Henry A. Cesar Malan",
+    "meta_title": "HENDON",
+    "meta_music": "7.7.7.7.7."
   },
   {
     "hymn": 9,
@@ -334,10 +334,10 @@
       "Restore unto me, the Joy of your salvation",
       "And renew a right Spirit within me."
     ],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 10,
@@ -383,10 +383,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Kate B. Wilkinson",
-    "meta_music": "A. Cyril Barham-Gould",
-    "meta_up": "ST. LEONARDS",
-    "meta_down": "8.7.8.5."
+    "author": "Kate B. Wilkinson",
+    "author_music": "A. Cyril Barham-Gould",
+    "meta_title": "ST. LEONARDS",
+    "meta_music": "8.7.8.5."
   },
   {
     "hymn": 11,
@@ -429,10 +429,10 @@
       "I will hasten to Him, hasten so glad and free.",
       "Jesus, Greatest, Highest, I will come to Thee"
     ],
-    "meta_text": "Palmer Hartsough",
-    "meta_music": "James H. Fillmore",
-    "meta_up": "RESOLUTION",
-    "meta_down": "10.6.10.6."
+    "author": "Palmer Hartsough",
+    "author_music": "James H. Fillmore",
+    "meta_title": "RESOLUTION",
+    "meta_music": "10.6.10.6."
   },
   {
     "hymn": 12,
@@ -471,10 +471,10 @@
       "More of His saving fullness see,",
       "More of His love who died for me."
     ],
-    "meta_text": "Eliza E. Hewitt",
-    "meta_music": "John R. Sweney",
-    "meta_up": "SWENEY",
-    "meta_down": "L. M. with Refrain"
+    "author": "Eliza E. Hewitt",
+    "author_music": "John R. Sweney",
+    "meta_title": "SWENEY",
+    "meta_music": "L. M. with Refrain"
   },
   {
     "hymn": 13,
@@ -513,10 +513,10 @@
       "Be like Jesus all day long,",
       "I would be like Jesus."
     ],
-    "meta_text": "James Rowe",
-    "meta_music": "Bentley D. Ackley",
-    "meta_up": "SPRING HILL",
-    "meta_down": "C.M. with Refrain"
+    "author": "James Rowe",
+    "author_music": "Bentley D. Ackley",
+    "meta_title": "SPRING HILL",
+    "meta_music": "C.M. with Refrain"
   },
   {
     "hymn": 14,
@@ -555,10 +555,10 @@
       "O the fullness of redemption,",
       "Pledge of endless life above!"
     ],
-    "meta_text": "Fanny J. Crosby",
-    "meta_music": "John R. Sweney",
-    "meta_up": "GIVE ME JESUS",
-    "meta_down": "8.7.8.7 with Refrain"
+    "author": "Fanny J. Crosby",
+    "author_music": "John R. Sweney",
+    "meta_title": "GIVE ME JESUS",
+    "meta_music": "8.7.8.7 with Refrain"
   },
   {
     "hymn": 15,
@@ -598,10 +598,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Sarah F. Adams",
-    "meta_music": "Lowell Mason",
-    "meta_up": "BETHANY",
-    "meta_down": "6.4.6.4.6.6.6.4."
+    "author": "Sarah F. Adams",
+    "author_music": "Lowell Mason",
+    "meta_title": "BETHANY",
+    "meta_music": "6.4.6.4.6.6.6.4."
   },
   {
     "hymn": 16,
@@ -640,10 +640,10 @@
       "Draw me nearer, nearer, blessed Lord,",
       "To Thy precious bleeding side."
     ],
-    "meta_text": "Fanny J. Crosby",
-    "meta_music": "William H. Doane",
-    "meta_up": "I AM THINE",
-    "meta_down": "10.7.10.7. with Refrain"
+    "author": "Fanny J. Crosby",
+    "author_music": "William H. Doane",
+    "meta_title": "I AM THINE",
+    "meta_music": "10.7.10.7. with Refrain"
   },
   {
     "hymn": 17,
@@ -682,10 +682,10 @@
       "A higher plane than I have found",
       "Lord, plant my feet on higher ground."
     ],
-    "meta_text": "Johnson Oatman, Jr",
-    "meta_music": "Charles H. Gabriel",
-    "meta_up": "HIGHER GROUND",
-    "meta_down": "L.M. with Refrain"
+    "author": "Johnson Oatman, Jr",
+    "author_music": "Charles H. Gabriel",
+    "meta_title": "HIGHER GROUND",
+    "meta_music": "L.M. with Refrain"
   },
   {
     "hymn": 18,
@@ -735,10 +735,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Thomas O. Chisholm",
-    "meta_music": "David Livingstone Ives",
-    "meta_up": "IVES",
-    "meta_down": "8.7.8.7.8.8.8.7."
+    "author": "Thomas O. Chisholm",
+    "author_music": "David Livingstone Ives",
+    "meta_title": "IVES",
+    "meta_music": "8.7.8.7.8.8.8.7."
   },
   {
     "hymn": 19,
@@ -754,10 +754,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Twila Paris",
-    "meta_music": "Twila Paris",
-    "meta_up": "ALL THAT I NEED",
-    "meta_down": "8.8.8.9."
+    "author": "Twila Paris",
+    "author_music": "Twila Paris",
+    "meta_title": "ALL THAT I NEED",
+    "meta_music": "8.8.8.9."
   },
   {
     "hymn": 20,
@@ -794,10 +794,10 @@
       "Anywhere! Anywhere! Fear I cannot know;",
       "Anywhere with Jesus I can safely go."
     ],
-    "meta_text": "Jessie H. Brown and Mrs C.M. Alexander",
-    "meta_music": "D. E. Towner",
-    "meta_up": "SECURITY",
-    "meta_down": "11.11.11.11.11.11."
+    "author": "Jessie H. Brown and Mrs C.M. Alexander",
+    "author_music": "D. E. Towner",
+    "meta_title": "SECURITY",
+    "meta_music": "11.11.11.11.11.11."
   },
   {
     "hymn": 21,
@@ -836,10 +836,10 @@
       "I own no other Master, My heart shall be Thy throne,",
       "My life I give, henceforth to live, O Christ, for Thee alone."
     ],
-    "meta_text": "T.o. Chrisholm",
-    "meta_music": "C. Harold Lowden",
-    "meta_up": "LIVING",
-    "meta_down": "10.10.10.10 with Refrain"
+    "author": "T.o. Chrisholm",
+    "author_music": "C. Harold Lowden",
+    "meta_title": "LIVING",
+    "meta_music": "10.10.10.10 with Refrain"
   },
   {
     "hymn": 22,
@@ -872,10 +872,10 @@
       "Tho' the pathway to glory may sometimes be drear,",
       "You 'll be happy each step of the way."
     ],
-    "meta_text": "Frank C. Huston",
-    "meta_music": "Frank C. Huston",
-    "meta_up": "",
-    "meta_down": "Irregular"
+    "author": "Frank C. Huston",
+    "author_music": "Frank C. Huston",
+    "meta_title": "",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 23,
@@ -914,10 +914,10 @@
       "How beautiful to walk in the steps of the Saviour,",
       "Led in paths of light."
     ],
-    "meta_text": "E. E. Hewitt",
-    "meta_music": "W. J. Kirpatrick",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "E. E. Hewitt",
+    "author_music": "W. J. Kirpatrick",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 24,
@@ -949,10 +949,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Chas H. Gabriel",
-    "meta_music": "Chas H. Gabriel",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Chas H. Gabriel",
+    "author_music": "Chas H. Gabriel",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 25,
@@ -985,10 +985,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Tom Colvin",
-    "meta_music": "Ghana Folks Songs",
-    "meta_up": "CHEREPONI",
-    "meta_down": "Irregular"
+    "author": "Tom Colvin",
+    "author_music": "Ghana Folks Songs",
+    "meta_title": "CHEREPONI",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 26,
@@ -1038,10 +1038,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Henry F. Lyte",
-    "meta_music": "",
-    "meta_up": "ELLESDIE",
-    "meta_down": "8.7.8.7D"
+    "author": "Henry F. Lyte",
+    "author_music": "",
+    "meta_title": "ELLESDIE",
+    "meta_music": "8.7.8.7D"
   },
   {
     "hymn": 27,
@@ -1059,10 +1059,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "John G. Elliott",
-    "meta_music": "John G. Elliott",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "John G. Elliott",
+    "author_music": "John G. Elliott",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 28,
@@ -1105,10 +1105,10 @@
       "Yes, there is no doubt in my mind",
       "I have made Jesus my choice"
     ],
-    "meta_text": "Zekeri, Musa M.P.",
-    "meta_music": "Abel Abikiaje",
-    "meta_up": "COVENANT",
-    "meta_down": "8.7.8.7. with Refrain."
+    "author": "Zekeri, Musa M.P.",
+    "author_music": "Abel Abikiaje",
+    "meta_title": "COVENANT",
+    "meta_music": "8.7.8.7. with Refrain."
   },
   {
     "hymn": 29,
@@ -1147,10 +1147,10 @@
       "You can only be blest and have peace and sweet rest",
       "As you yield Him your body and soul."
     ],
-    "meta_text": "Elisha A. Hoffman",
-    "meta_music": "Elisha A. Hoffman",
-    "meta_up": "HOFFMAN",
-    "meta_down": "12.9.12.9 with Refrain"
+    "author": "Elisha A. Hoffman",
+    "author_music": "Elisha A. Hoffman",
+    "meta_title": "HOFFMAN",
+    "meta_music": "12.9.12.9 with Refrain"
   },
   {
     "hymn": 30,
@@ -1205,10 +1205,10 @@
       "So must I give the Lord full control",
       "And then, follow on."
     ],
-    "meta_text": "Peace House Singing Team, Gboko.",
-    "meta_music": "Peace House Singing Team, Gboko.",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Peace House Singing Team, Gboko.",
+    "author_music": "Peace House Singing Team, Gboko.",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 31,
@@ -1236,10 +1236,10 @@
       "Just let me be a follower of Christ",
       "(Yes I want to be a follower of Christ)."
     ],
-    "meta_text": "J. W. Harris",
-    "meta_music": "Unknown",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "J. W. Harris",
+    "author_music": "Unknown",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 32,
@@ -1296,10 +1296,10 @@
       "Deliver me from this body of death, O LORD",
       "Shape and sharpen me for revival."
     ],
-    "meta_text": "Peace House Singing Team, Gboko.",
-    "meta_music": "Peace House Singing Team, Gboko.",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Peace House Singing Team, Gboko.",
+    "author_music": "Peace House Singing Team, Gboko.",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 33,
@@ -1322,10 +1322,10 @@
       "Nothing, nothing, absolutely nothing",
       "Nothing is too difficult for thee."
     ],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 34,
@@ -1356,10 +1356,10 @@
       "For I'm not worthy of all these blessings.",
       "Give me a clean heart and I'll follow Thee."
     ],
-    "meta_text": "Margaret J. Douroux",
-    "meta_music": "Margaret J. Douroux",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Margaret J. Douroux",
+    "author_music": "Margaret J. Douroux",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 35,
@@ -1398,10 +1398,10 @@
       "Only what you do for Him will be counted at the end,",
       "Only what you do for Christ will last!"
     ],
-    "meta_text": "Raymond Raspberry",
-    "meta_music": "Raymond Raspberry",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Raymond Raspberry",
+    "author_music": "Raymond Raspberry",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 36,
@@ -1434,10 +1434,10 @@
       "All I have needed Thy hand hath provided,",
       "Great is Thy faithfulness, Lord unto me!"
     ],
-    "meta_text": "Thomas O. Chrisholm",
-    "meta_music": "Traditional Swedish Melody",
-    "meta_up": "FAITHFULNESS",
-    "meta_down": "11.10.11.10. with Refrain"
+    "author": "Thomas O. Chrisholm",
+    "author_music": "Traditional Swedish Melody",
+    "meta_title": "FAITHFULNESS",
+    "meta_music": "11.10.11.10. with Refrain"
   },
   {
     "hymn": 37,
@@ -1476,10 +1476,10 @@
       "Are your garments spotless? Are they white as snow?",
       "Are you washed in the blood of the Lamb?"
     ],
-    "meta_text": "Elisha A. Hoffman",
-    "meta_music": "Elisha A. Hoffman",
-    "meta_up": "WASHED IN THE BLOOD",
-    "meta_down": "11.9.11.9. with Refrain"
+    "author": "Elisha A. Hoffman",
+    "author_music": "Elisha A. Hoffman",
+    "meta_title": "WASHED IN THE BLOOD",
+    "meta_music": "11.9.11.9. with Refrain"
   },
   {
     "hymn": 38,
@@ -1518,10 +1518,10 @@
       "Where He leads me I will follow,",
       "I'll go with Him with Him all the way."
     ],
-    "meta_text": "E.w. Blandy",
-    "meta_music": "J. S. Norris",
-    "meta_up": "NORRIS",
-    "meta_down": "Irregular"
+    "author": "E.w. Blandy",
+    "author_music": "J. S. Norris",
+    "meta_title": "NORRIS",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 39,
@@ -1560,10 +1560,10 @@
       "I will cling to the old rugged cross,",
       "And exchange it some day for a crown."
     ],
-    "meta_text": "George Bennard",
-    "meta_music": "George Bennard",
-    "meta_up": "OLD RUGGED CROSS",
-    "meta_down": "Irregular"
+    "author": "George Bennard",
+    "author_music": "George Bennard",
+    "meta_title": "OLD RUGGED CROSS",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 40,
@@ -1599,10 +1599,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 41,
@@ -1642,10 +1642,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "P.P. Bliss",
-    "meta_music": "P.P. Bliss",
-    "meta_up": "",
-    "meta_down": "6.5.6.5.D."
+    "author": "P.P. Bliss",
+    "author_music": "P.P. Bliss",
+    "meta_title": "",
+    "meta_music": "6.5.6.5.D."
   },
   {
     "hymn": 42,
@@ -1679,10 +1679,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Washington Gladden",
-    "meta_music": "H. Percy Smith",
-    "meta_up": "MARYTON",
-    "meta_down": "8.8.8.8. (LM)"
+    "author": "Washington Gladden",
+    "author_music": "H. Percy Smith",
+    "meta_title": "MARYTON",
+    "meta_music": "8.8.8.8. (LM)"
   },
   {
     "hymn": 43,
@@ -1721,10 +1721,10 @@
       "Till my ran-somed soul shall find",
       "Rest be-yond the riv-er."
     ],
-    "meta_text": "Fanny J. Crosby",
-    "meta_music": "William H. Doane",
-    "meta_up": "NEAR THE CROSS",
-    "meta_down": "7.6.7.6."
+    "author": "Fanny J. Crosby",
+    "author_music": "William H. Doane",
+    "meta_title": "NEAR THE CROSS",
+    "meta_music": "7.6.7.6."
   },
   {
     "hymn": 44,
@@ -1754,10 +1754,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Bryan Jeffery Leach",
-    "meta_music": "Traditional English Melody",
-    "meta_up": "FOREST GREEN",
-    "meta_down": "8.6.8.6.D"
+    "author": "Bryan Jeffery Leach",
+    "author_music": "Traditional English Melody",
+    "meta_title": "FOREST GREEN",
+    "meta_music": "8.6.8.6.D"
   },
   {
     "hymn": 45,
@@ -1788,10 +1788,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Fannie Estelle Davison",
-    "meta_music": "James H. Fillmore",
-    "meta_up": "PURER IN HEART",
-    "meta_down": "Irregular"
+    "author": "Fannie Estelle Davison",
+    "author_music": "James H. Fillmore",
+    "meta_title": "PURER IN HEART",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 46,
@@ -1825,10 +1825,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Charles W. Everest",
-    "meta_music": "Henry Baker",
-    "meta_up": "QUEBEC",
-    "meta_down": "8.8.8.8. (LM)"
+    "author": "Charles W. Everest",
+    "author_music": "Henry Baker",
+    "meta_title": "QUEBEC",
+    "meta_music": "8.8.8.8. (LM)"
   },
   {
     "hymn": 47,
@@ -1873,10 +1873,10 @@
       "Oh, bless me now, my Saviour!",
       "I come to Thee."
     ],
-    "meta_text": "Annie S. Hawks",
-    "meta_music": "Robert Lowry",
-    "meta_up": "NEED",
-    "meta_down": "Irregular"
+    "author": "Annie S. Hawks",
+    "author_music": "Robert Lowry",
+    "meta_title": "NEED",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 48,
@@ -1913,10 +1913,10 @@
       "Footprints of Jesus that make the pathway glow;",
       "We will follow the steps of Jesus wher-e\u2019er they go."
     ],
-    "meta_text": "Mary B. C. Slade",
-    "meta_music": "Asa Everett",
-    "meta_up": "FOOT STEPS",
-    "meta_down": "Irregular"
+    "author": "Mary B. C. Slade",
+    "author_music": "Asa Everett",
+    "meta_title": "FOOT STEPS",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 49,
@@ -1955,10 +1955,10 @@
       "Ready for service, lowly or great,",
       "Ready to do His will"
     ],
-    "meta_text": "Anonymous",
-    "meta_music": "Charles D.",
-    "meta_up": "TILLMAN",
-    "meta_down": "C.M. with Refrain."
+    "author": "Anonymous",
+    "author_music": "Charles D.",
+    "meta_title": "TILLMAN",
+    "meta_music": "C.M. with Refrain."
   },
   {
     "hymn": 50,
@@ -1992,10 +1992,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Adelaide A. Pollard",
-    "meta_music": "George C. Stebbins",
-    "meta_up": "ADELAIDE",
-    "meta_down": "5.4.5.4.D."
+    "author": "Adelaide A. Pollard",
+    "author_music": "George C. Stebbins",
+    "meta_title": "ADELAIDE",
+    "meta_music": "5.4.5.4.D."
   },
   {
     "hymn": 51,
@@ -2035,10 +2035,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "John E. Bode",
-    "meta_music": "Arthur H. Mann",
-    "meta_up": "ANGEL'S STORY",
-    "meta_down": "7.6.7.6. D"
+    "author": "John E. Bode",
+    "author_music": "Arthur H. Mann",
+    "meta_title": "ANGEL'S STORY",
+    "meta_music": "7.6.7.6. D"
   },
   {
     "hymn": 52,
@@ -2084,10 +2084,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Isaac Watts",
-    "meta_music": "William Croft",
-    "meta_up": "ST. ANNE",
-    "meta_down": "8.6.8.6. (CM)"
+    "author": "Isaac Watts",
+    "author_music": "William Croft",
+    "meta_title": "ST. ANNE",
+    "meta_music": "8.6.8.6. (CM)"
   },
   {
     "hymn": 53,
@@ -2129,10 +2129,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Edward Perronet & John Rippon",
-    "meta_music": "James Ellor",
-    "meta_up": "DIADEM",
-    "meta_down": "8.6.8.6 (CM)"
+    "author": "Edward Perronet & John Rippon",
+    "author_music": "James Ellor",
+    "meta_title": "DIADEM",
+    "meta_music": "8.6.8.6 (CM)"
   },
   {
     "hymn": 54,
@@ -2173,10 +2173,10 @@
       "Then sings my soul, my Saviour God, to Thee;",
       "How great Thou art, how great Thou art!"
     ],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 55,
@@ -2216,10 +2216,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Sarah Doudney",
-    "meta_music": "Wesly Melody",
-    "meta_up": "ASH GROVE",
-    "meta_down": "12.11.12.11.D."
+    "author": "Sarah Doudney",
+    "author_music": "Wesly Melody",
+    "meta_title": "ASH GROVE",
+    "meta_music": "12.11.12.11.D."
   },
   {
     "hymn": 56,
@@ -2258,10 +2258,10 @@
       "Jesus satisfies my longings,",
       "Thro' His blood I now am saved."
     ],
-    "meta_text": "Clara T. Williams",
-    "meta_music": "Ralph E. Hudson",
-    "meta_up": "SATISFIED",
-    "meta_down": "8.7.8.7 with Refrain"
+    "author": "Clara T. Williams",
+    "author_music": "Ralph E. Hudson",
+    "meta_title": "SATISFIED",
+    "meta_music": "8.7.8.7 with Refrain"
   },
   {
     "hymn": 57,
@@ -2298,10 +2298,10 @@
       "Glorious, glorious, glorious is Thy name, O Lord!",
       "Glorious, glorious, glorious is Thy name, O Lord!"
     ],
-    "meta_text": "B.b. Mckinney",
-    "meta_music": "B.b. Mckinney",
-    "meta_up": "GLORIOUS NAME",
-    "meta_down": "8.7.8.7. with Refrain"
+    "author": "B.b. Mckinney",
+    "author_music": "B.b. Mckinney",
+    "meta_title": "GLORIOUS NAME",
+    "meta_music": "8.7.8.7. with Refrain"
   },
   {
     "hymn": 58,
@@ -2335,10 +2335,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Ray Palmer",
-    "meta_music": "Lowell Mason",
-    "meta_up": "OLIVET",
-    "meta_down": "Irregular"
+    "author": "Ray Palmer",
+    "author_music": "Lowell Mason",
+    "meta_title": "OLIVET",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 59,
@@ -2372,10 +2372,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Edwin Hatch",
-    "meta_music": "Robert Jackson",
-    "meta_up": "TRENTHAM",
-    "meta_down": "6.6.8.6. (S.M.)"
+    "author": "Edwin Hatch",
+    "author_music": "Robert Jackson",
+    "meta_title": "TRENTHAM",
+    "meta_music": "6.6.8.6. (S.M.)"
   },
   {
     "hymn": 60,
@@ -2421,10 +2421,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "John Newton",
-    "meta_music": "Virginia Harmony",
-    "meta_up": "NEW BRITAIN",
-    "meta_down": "8.6.8.6. (C.M.)"
+    "author": "John Newton",
+    "author_music": "Virginia Harmony",
+    "meta_title": "NEW BRITAIN",
+    "meta_music": "8.6.8.6. (C.M.)"
   },
   {
     "hymn": 61,
@@ -2457,10 +2457,10 @@
       "This is my story, this is my song,",
       "Praising my Saviour all the day long."
     ],
-    "meta_text": "Fanny J. Crosby",
-    "meta_music": "Phoebe Palmer Knapp",
-    "meta_up": "ASSURANCE",
-    "meta_down": "Irregular"
+    "author": "Fanny J. Crosby",
+    "author_music": "Phoebe Palmer Knapp",
+    "meta_title": "ASSURANCE",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 62,
@@ -2500,10 +2500,10 @@
       "Place your faith in Christ Jesus.",
       "Turn your eyes now to Calvary."
     ],
-    "meta_text": "Richard D. Baker",
-    "meta_music": "Richard D. Baker",
-    "meta_up": "McKINNEY",
-    "meta_down": "Irregular"
+    "author": "Richard D. Baker",
+    "author_music": "Richard D. Baker",
+    "meta_title": "McKINNEY",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 63,
@@ -2537,10 +2537,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Frederick Whitfield",
-    "meta_music": "Anonymous",
-    "meta_up": "WHITFIELD",
-    "meta_down": "7.6.7.6.D."
+    "author": "Frederick Whitfield",
+    "author_music": "Anonymous",
+    "meta_title": "WHITFIELD",
+    "meta_music": "7.6.7.6.D."
   },
   {
     "hymn": 64,
@@ -2574,10 +2574,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Adapt. John W. Work, Jr.",
-    "meta_music": "Negro Spiritual",
-    "meta_up": "I WANT TO BE A CHRISTIAN",
-    "meta_down": "Irregular,"
+    "author": "Adapt. John W. Work, Jr.",
+    "author_music": "Negro Spiritual",
+    "meta_title": "I WANT TO BE A CHRISTIAN",
+    "meta_music": "Irregular,"
   },
   {
     "hymn": 65,
@@ -2616,10 +2616,10 @@
       "My life possessing, my service blessing,",
       "Make me a channel of blessing today."
     ],
-    "meta_text": "Harper G. Smyth",
-    "meta_music": "Harper G. Smyth",
-    "meta_up": "EUCLID",
-    "meta_down": "Irregular"
+    "author": "Harper G. Smyth",
+    "author_music": "Harper G. Smyth",
+    "meta_title": "EUCLID",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 66,
@@ -2669,10 +2669,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Anna Olander",
-    "meta_music": "Tr. Composite",
-    "meta_up": "TRUE RICHES",
-    "meta_down": "Swedish Melody"
+    "author": "Anna Olander",
+    "author_music": "Tr. Composite",
+    "meta_title": "TRUE RICHES",
+    "meta_music": "Swedish Melody"
   },
   {
     "hymn": 67,
@@ -2690,10 +2690,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Eddie Espinosa",
-    "meta_music": "Eddie Espinosa",
-    "meta_up": "CHANGE MY HEART",
-    "meta_down": "Irregular"
+    "author": "Eddie Espinosa",
+    "author_music": "Eddie Espinosa",
+    "meta_title": "CHANGE MY HEART",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 68,
@@ -2732,10 +2732,10 @@
       "Looking to Jesus 'til glory doth shine,",
       "Moment by moment, O Lord, I am Thine"
     ],
-    "meta_text": "Daniel W. Whittle",
-    "meta_music": "May W. Mooby",
-    "meta_up": "WHITTLE",
-    "meta_down": "10.10.10.10. with Refrain"
+    "author": "Daniel W. Whittle",
+    "author_music": "May W. Mooby",
+    "meta_title": "WHITTLE",
+    "meta_music": "10.10.10.10. with Refrain"
   },
   {
     "hymn": 69,
@@ -2769,10 +2769,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Ascribed To An Indian Prince",
-    "meta_music": "Indian Folk Melody",
-    "meta_up": "ASSAM",
-    "meta_down": "10.10.10.8."
+    "author": "Ascribed To An Indian Prince",
+    "author_music": "Indian Folk Melody",
+    "meta_title": "ASSAM",
+    "meta_music": "10.10.10.8."
   },
   {
     "hymn": 70,
@@ -2811,10 +2811,10 @@
       "Grace, grace, God's grace,",
       "Grace that is greater than all our sins!"
     ],
-    "meta_text": "Julia H. Johnston",
-    "meta_music": "Daniel B. Towner",
-    "meta_up": "MOODY",
-    "meta_down": "9.9.9.9."
+    "author": "Julia H. Johnston",
+    "author_music": "Daniel B. Towner",
+    "meta_title": "MOODY",
+    "meta_music": "9.9.9.9."
   },
   {
     "hymn": 71,
@@ -2847,10 +2847,10 @@
       "Why should my Saviour to Calvary go?",
       "Why should He love me so?"
     ],
-    "meta_text": "Robert Harkness",
-    "meta_music": "Robert Harkness",
-    "meta_up": "LOVE ME",
-    "meta_down": "10.6.10.6. with Refrain"
+    "author": "Robert Harkness",
+    "author_music": "Robert Harkness",
+    "meta_title": "LOVE ME",
+    "meta_music": "10.6.10.6. with Refrain"
   },
   {
     "hymn": 72,
@@ -2888,10 +2888,10 @@
       "All other ground is sinking sand,",
       "All other ground is sinking sand."
     ],
-    "meta_text": "Edward Mote",
-    "meta_music": "William B. Bradbury",
-    "meta_up": "SOLID ROCK",
-    "meta_down": "8.8.8.8 (L.M) with Refrain"
+    "author": "Edward Mote",
+    "author_music": "William B. Bradbury",
+    "meta_title": "SOLID ROCK",
+    "meta_music": "8.8.8.8 (L.M) with Refrain"
   },
   {
     "hymn": 73,
@@ -2924,10 +2924,10 @@
       "Something more than wealth or fame-",
       "He gave me something worth living for."
     ],
-    "meta_text": "Dale Oldham",
-    "meta_music": "William J. Gaither",
-    "meta_up": "SOMETHING MORE",
-    "meta_down": "Irregular"
+    "author": "Dale Oldham",
+    "author_music": "William J. Gaither",
+    "meta_title": "SOMETHING MORE",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 74,
@@ -2966,10 +2966,10 @@
       "My guilt and despair Jesus took on Him there,",
       "And Calvary covers it all."
     ],
-    "meta_text": "Mrs. Walter G. Taylor",
-    "meta_music": "Mrs. Walter G. Taylor",
-    "meta_up": "CALVARY COVERS IT ALL",
-    "meta_down": ""
+    "author": "Mrs. Walter G. Taylor",
+    "author_music": "Mrs. Walter G. Taylor",
+    "meta_title": "CALVARY COVERS IT ALL",
+    "meta_music": ""
   },
   {
     "hymn": 75,
@@ -3003,10 +3003,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "John Bowring",
-    "meta_music": "Ithamar Conkey",
-    "meta_up": "RATHBUN",
-    "meta_down": "8.7.8.7"
+    "author": "John Bowring",
+    "author_music": "Ithamar Conkey",
+    "meta_title": "RATHBUN",
+    "meta_music": "8.7.8.7"
   },
   {
     "hymn": 76,
@@ -3041,10 +3041,10 @@
       "O make me Lord into your pattern",
       "O make me Lord into your will"
     ],
-    "meta_text": "Abel Abikiaje",
-    "meta_music": "Abel Abikiaje",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Abel Abikiaje",
+    "author_music": "Abel Abikiaje",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 77,
@@ -3078,10 +3078,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "R. Maines Rawls",
-    "meta_music": "R. Maines Rawls",
-    "meta_up": "LANGLEY",
-    "meta_down": "Irregular"
+    "author": "R. Maines Rawls",
+    "author_music": "R. Maines Rawls",
+    "meta_title": "LANGLEY",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 78,
@@ -3099,10 +3099,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Robert Cull",
-    "meta_music": "Robert Cull",
-    "meta_up": "OPEN OUR EYES",
-    "meta_down": "Irregular"
+    "author": "Robert Cull",
+    "author_music": "Robert Cull",
+    "meta_title": "OPEN OUR EYES",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 79,
@@ -3122,10 +3122,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 80,
@@ -3165,10 +3165,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Clara H. Scott",
-    "meta_music": "Clara H. Scott",
-    "meta_up": "SCOTT",
-    "meta_down": "Irregular"
+    "author": "Clara H. Scott",
+    "author_music": "Clara H. Scott",
+    "meta_title": "SCOTT",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 81,
@@ -3201,10 +3201,10 @@
       "Thy will divine, Henceforth is mine,",
       "To live for Thee, dear Saviour, for Thee."
     ],
-    "meta_text": "B.B. McKinney",
-    "meta_music": "B.B. McKinney",
-    "meta_up": "ALTAR",
-    "meta_down": "8.6.8.6.(C.M.)"
+    "author": "B.B. McKinney",
+    "author_music": "B.B. McKinney",
+    "meta_title": "ALTAR",
+    "meta_music": "8.6.8.6.(C.M.)"
   },
   {
     "hymn": 82,
@@ -3251,10 +3251,10 @@
       "It was there by faith I received my sight,",
       "And now I am happy all the day!"
     ],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 83,
@@ -3304,10 +3304,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Eva B. Lloyd",
-    "meta_music": "Sacred Harp, 1844",
-    "meta_up": "BEACH SPRING",
-    "meta_down": "8.7.8.7.D"
+    "author": "Eva B. Lloyd",
+    "author_music": "Sacred Harp, 1844",
+    "meta_title": "BEACH SPRING",
+    "meta_music": "8.7.8.7.D"
   },
   {
     "hymn": 84,
@@ -3327,10 +3327,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 85,
@@ -3370,10 +3370,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 86,
@@ -3421,10 +3421,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 87,
@@ -3474,10 +3474,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Charles Wesley",
-    "meta_music": "Thomas Campbell",
-    "meta_up": "SA GINA",
-    "meta_down": "8.8.8.8.8.8."
+    "author": "Charles Wesley",
+    "author_music": "Thomas Campbell",
+    "meta_title": "SA GINA",
+    "meta_music": "8.8.8.8.8.8."
   },
   {
     "hymn": 88,
@@ -3510,10 +3510,10 @@
       "Thy guiding radiance above us shall be",
       "A beacon to God, to love and loyalty"
     ],
-    "meta_text": "Earl Marlatt",
-    "meta_music": "Harry S. Mason",
-    "meta_up": "BEACON HILL",
-    "meta_down": "Irregular"
+    "author": "Earl Marlatt",
+    "author_music": "Harry S. Mason",
+    "meta_title": "BEACON HILL",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 89,
@@ -3555,10 +3555,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "A.m. Toplady",
-    "meta_music": "R. Redhead",
-    "meta_up": "REAHEAD, 76",
-    "meta_down": "7.7.7.7.7.7."
+    "author": "A.m. Toplady",
+    "author_music": "R. Redhead",
+    "meta_title": "REAHEAD, 76",
+    "meta_music": "7.7.7.7.7.7."
   },
   {
     "hymn": 90,
@@ -3578,10 +3578,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Abel Abikiaje",
-    "meta_music": "Abel Abikiaje",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Abel Abikiaje",
+    "author_music": "Abel Abikiaje",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 91,
@@ -3601,10 +3601,10 @@
       "It is marvelous in my sight O Lord",
       "It is marvelous in my sight O Lord"
     ],
-    "meta_text": "Abel Abikiaje",
-    "meta_music": "Abel Abikiaje",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Abel Abikiaje",
+    "author_music": "Abel Abikiaje",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 92,
@@ -3638,10 +3638,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Edwin Orr",
-    "meta_music": "Maori Melody",
-    "meta_up": "MAORI",
-    "meta_down": "10.10.10.10."
+    "author": "Edwin Orr",
+    "author_music": "Maori Melody",
+    "meta_title": "MAORI",
+    "meta_music": "10.10.10.10."
   },
   {
     "hymn": 93,
@@ -3675,10 +3675,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Andrew Reed",
-    "meta_music": "Louis M. Gottschalk",
-    "meta_up": "MERCY",
-    "meta_down": "7.7.7.7."
+    "author": "Andrew Reed",
+    "author_music": "Louis M. Gottschalk",
+    "meta_title": "MERCY",
+    "meta_music": "7.7.7.7."
   },
   {
     "hymn": 94,
@@ -3717,10 +3717,10 @@
       "Keep telling the story, be faithful and true,",
       "Let others see Jesus in you."
     ],
-    "meta_text": "B.B. McKinney",
-    "meta_music": "B.B. McKinney",
-    "meta_up": "COLEMAN",
-    "meta_down": "Irregular"
+    "author": "B.B. McKinney",
+    "author_music": "B.B. McKinney",
+    "meta_title": "COLEMAN",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 95,
@@ -3765,10 +3765,10 @@
       "Come in Thy sweetness, come in Thy fullness;",
       "Stamp Thine own image deep on my heart."
     ],
-    "meta_text": "Thomas O. Chisholm",
-    "meta_music": "William J. Kirkpatrick",
-    "meta_up": "CHRISTLIKE",
-    "meta_down": "10.9.10.9.10.9."
+    "author": "Thomas O. Chisholm",
+    "author_music": "William J. Kirkpatrick",
+    "meta_title": "CHRISTLIKE",
+    "meta_music": "10.9.10.9.10.9."
   },
   {
     "hymn": 96,
@@ -3796,10 +3796,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Walt Mills",
-    "meta_music": "Walt Mills",
-    "meta_up": "MILLS",
-    "meta_down": "7.7.9.7"
+    "author": "Walt Mills",
+    "author_music": "Walt Mills",
+    "meta_title": "MILLS",
+    "meta_music": "7.7.9.7"
   },
   {
     "hymn": 97,
@@ -3815,10 +3815,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Daniel Iverson",
-    "meta_music": "Daniel Iverson",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Daniel Iverson",
+    "author_music": "Daniel Iverson",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 98,
@@ -3856,10 +3856,10 @@
       "Sin had left a crimson stain",
       "He washed it white as snow."
     ],
-    "meta_text": "Elvina M. Hall",
-    "meta_music": "John T. Grape",
-    "meta_up": "ALL TO CHRIST",
-    "meta_down": "Irregular"
+    "author": "Elvina M. Hall",
+    "author_music": "John T. Grape",
+    "meta_title": "ALL TO CHRIST",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 99,
@@ -3899,10 +3899,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "George Matheson",
-    "meta_music": "John Jones",
-    "meta_up": "TRENTHAM",
-    "meta_down": "6.6.8.6. S.M.D"
+    "author": "George Matheson",
+    "author_music": "John Jones",
+    "meta_title": "TRENTHAM",
+    "meta_music": "6.6.8.6. S.M.D"
   },
   {
     "hymn": 100,
@@ -3932,10 +3932,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "W. Peterson",
-    "meta_music": "W. Peterson",
-    "meta_up": "",
-    "meta_down": "Irregular"
+    "author": "W. Peterson",
+    "author_music": "W. Peterson",
+    "meta_title": "",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 101,
@@ -3975,10 +3975,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "John W. Peterson",
-    "meta_music": "John W. Peterson",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "John W. Peterson",
+    "author_music": "John W. Peterson",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 102,
@@ -4023,10 +4023,10 @@
       "O take me, fill me, use me, Lord,",
       "Till Christ be seen in me."
     ],
-    "meta_text": "Lois Dehoff",
-    "meta_music": "Evelyn B. Lykens",
-    "meta_up": "",
-    "meta_down": "8.6.8.6.D"
+    "author": "Lois Dehoff",
+    "author_music": "Evelyn B. Lykens",
+    "meta_title": "",
+    "meta_music": "8.6.8.6.D"
   },
   {
     "hymn": 103,
@@ -4046,10 +4046,10 @@
       "Text: Melodie Tunney, Dick Tunney, Beverly Darnall;    ISAAC",
       "Music: Melodie Tunney, Dick Tunney, Beverly Darnall; Irregular"
     ],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 104,
@@ -4083,10 +4083,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Marianne Farningham",
-    "meta_music": "A. H. Brown",
-    "meta_up": "SAFFRON WARDEN",
-    "meta_down": "8.8.8.6."
+    "author": "Marianne Farningham",
+    "author_music": "A. H. Brown",
+    "meta_title": "SAFFRON WARDEN",
+    "meta_music": "8.8.8.6."
   },
   {
     "hymn": 105,
@@ -4125,10 +4125,10 @@
       "Lest I forget Thy love for me,",
       "Lead me to Calvary."
     ],
-    "meta_text": "Jennie E. Hussey",
-    "meta_music": "William J. Kirkpatric",
-    "meta_up": "DUNCANNON",
-    "meta_down": "8.6.8.6. (C.M.)"
+    "author": "Jennie E. Hussey",
+    "author_music": "William J. Kirkpatric",
+    "meta_title": "DUNCANNON",
+    "meta_music": "8.6.8.6. (C.M.)"
   },
   {
     "hymn": 106,
@@ -4165,10 +4165,10 @@
       "What a wonderful Saviour Is Jesus, my Jesus!",
       "What a wonderful Saviour Is Jesus, my Lord!"
     ],
-    "meta_text": "Elisha A. Hoffman",
-    "meta_music": "Elisha A. Hoffman",
-    "meta_up": "BENTON HARBOR",
-    "meta_down": "8.7.8.7"
+    "author": "Elisha A. Hoffman",
+    "author_music": "Elisha A. Hoffman",
+    "meta_title": "BENTON HARBOR",
+    "meta_music": "8.7.8.7"
   },
   {
     "hymn": 107,
@@ -4208,10 +4208,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Thomas Shepherd and others",
-    "meta_music": "George N. Allen",
-    "meta_up": "MAITLAND",
-    "meta_down": "C.M."
+    "author": "Thomas Shepherd and others",
+    "author_music": "George N. Allen",
+    "meta_title": "MAITLAND",
+    "meta_music": "C.M."
   },
   {
     "hymn": 108,
@@ -4250,10 +4250,10 @@
       "And wiser, blessed Lord \u2026",
       "In the precious, Holy Word."
     ],
-    "meta_text": "Charles P. Jones",
-    "meta_music": "Charles P. Jones",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Charles P. Jones",
+    "author_music": "Charles P. Jones",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 109,
@@ -4291,10 +4291,10 @@
       "Oh, to be lost in Thee;",
       "Oh, that it may be no more I but Christ that lives in me."
     ],
-    "meta_text": "A.A.F",
-    "meta_music": "J.H. BURKE",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "A.A.F",
+    "author_music": "J.H. BURKE",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 110,
@@ -4331,10 +4331,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Bryan Jeffery Leech",
-    "meta_music": "A. Royce Eckhardt",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Bryan Jeffery Leech",
+    "author_music": "A. Royce Eckhardt",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 111,
@@ -4379,10 +4379,10 @@
       "Flowing through us. Thou canst use us",
       "Every day and every hour"
     ],
-    "meta_text": "Mary E. Maxwell",
-    "meta_music": "Ada R. Gibbs",
-    "meta_up": "",
-    "meta_down": "8.7.8.7. with Refrain."
+    "author": "Mary E. Maxwell",
+    "author_music": "Ada R. Gibbs",
+    "meta_title": "",
+    "meta_music": "8.7.8.7. with Refrain."
   },
   {
     "hymn": 112,
@@ -4459,10 +4459,10 @@
       "That I may know Him",
       "Who is God's only pattern for me."
     ],
-    "meta_text": "Peace House Singing Team, Gboko",
-    "meta_music": "Peace House Singing Team, Gboko",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Peace House Singing Team, Gboko",
+    "author_music": "Peace House Singing Team, Gboko",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 113,
@@ -4519,10 +4519,10 @@
       "I seek Thy grace with all my heart",
       "To be made pure just as thou art"
     ],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 114,
@@ -4543,10 +4543,10 @@
       "He who denies himself, and forsakes his own life",
       "Needing more of Jesus, He is on the Lord's side"
     ],
-    "meta_text": "Abikiaje Abel",
-    "meta_music": "Abikiaje Abel",
-    "meta_up": "IBUSA",
-    "meta_down": "6.6.6.6.D"
+    "author": "Abikiaje Abel",
+    "author_music": "Abikiaje Abel",
+    "meta_title": "IBUSA",
+    "meta_music": "6.6.6.6.D"
   },
   {
     "hymn": 115,
@@ -4603,10 +4603,10 @@
       "Until Thy blessed face I see",
       "Thy rest, Thy joy, Thy glory share."
     ],
-    "meta_text": "Frances Havegal",
-    "meta_music": "Robert Schuman",
-    "meta_up": "CANONBURGY",
-    "meta_down": "8.8.8.8(L.M)"
+    "author": "Frances Havegal",
+    "author_music": "Robert Schuman",
+    "meta_title": "CANONBURGY",
+    "meta_music": "8.8.8.8(L.M)"
   },
   {
     "hymn": 116,
@@ -4632,10 +4632,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 117,
@@ -4686,10 +4686,10 @@
       "I'll do as He bids me whatever the cost,",
       "I'll be a true soldier, I'll die at my post."
     ],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 118,
@@ -4707,10 +4707,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 119,
@@ -4758,10 +4758,10 @@
       "While homeward faith keeps winging,",
       "While homeward faith keeps winging."
     ],
-    "meta_text": "Dr. J.j Maxfield",
-    "meta_music": "W.a. Ogden",
-    "meta_up": "",
-    "meta_down": "8.6.8.6.8.8. with Refrain."
+    "author": "Dr. J.j Maxfield",
+    "author_music": "W.a. Ogden",
+    "meta_title": "",
+    "meta_music": "8.6.8.6.8.8. with Refrain."
   },
   {
     "hymn": 120,
@@ -4782,10 +4782,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 121,
@@ -4824,10 +4824,10 @@
       "Thus would we pass from the earth and its toiling",
       "Only remembered by what we have done."
     ],
-    "meta_text": "H. Bonar, D.D.",
-    "meta_music": "Ira D. Sankey",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "H. Bonar, D.D.",
+    "author_music": "Ira D. Sankey",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 122,
@@ -4867,10 +4867,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Fanny J. Crosby",
-    "meta_music": "J. Vail",
-    "meta_up": "CLOSE TO THEE",
-    "meta_down": "Irregular"
+    "author": "Fanny J. Crosby",
+    "author_music": "J. Vail",
+    "meta_title": "CLOSE TO THEE",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 123,
@@ -4908,10 +4908,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Howard S. Olson",
-    "meta_music": "",
-    "meta_up": "YATURU TUNE",
-    "meta_down": ""
+    "author": "Howard S. Olson",
+    "author_music": "",
+    "meta_title": "YATURU TUNE",
+    "meta_music": ""
   },
   {
     "hymn": 124,
@@ -4949,10 +4949,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Haldor Lillenas",
-    "meta_music": "Bertha Mae Lillenas",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Haldor Lillenas",
+    "author_music": "Bertha Mae Lillenas",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 125,
@@ -4999,10 +4999,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Fanny J. Crosby",
-    "meta_music": "Robert Lowry",
-    "meta_up": "ALL THE WAY",
-    "meta_down": "8.7.8.7."
+    "author": "Fanny J. Crosby",
+    "author_music": "Robert Lowry",
+    "meta_title": "ALL THE WAY",
+    "meta_music": "8.7.8.7."
   },
   {
     "hymn": 126,
@@ -5030,10 +5030,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Osward J. Smith",
-    "meta_music": "B. D Ackley",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Osward J. Smith",
+    "author_music": "B. D Ackley",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 127,
@@ -5066,10 +5066,10 @@
       "May Thy tender love to me",
       "Bind me closer, closer, Lord, to Thee."
     ],
-    "meta_text": "Fanny J. Crosby",
-    "meta_music": "W. H. Doane",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Fanny J. Crosby",
+    "author_music": "W. H. Doane",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 128,
@@ -5115,10 +5115,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "J.C. Lavater",
-    "meta_music": "",
-    "meta_up": "C.M.",
-    "meta_down": ""
+    "author": "J.C. Lavater",
+    "author_music": "",
+    "meta_title": "C.M.",
+    "meta_music": ""
   },
   {
     "hymn": 129,
@@ -5163,10 +5163,10 @@
       "But my heart will know no sadness",
       "When the pearly gates unfold."
     ],
-    "meta_text": "Salvation Army Musical Board",
-    "meta_music": "Salvation Army Musical Board",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Salvation Army Musical Board",
+    "author_music": "Salvation Army Musical Board",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 130,
@@ -5194,10 +5194,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "E. Margaret Clarkson",
-    "meta_music": "Robert Jackson",
-    "meta_up": "TRENTAM",
-    "meta_down": "6.6.8.6.(S.M.)"
+    "author": "E. Margaret Clarkson",
+    "author_music": "Robert Jackson",
+    "meta_title": "TRENTAM",
+    "meta_music": "6.6.8.6.(S.M.)"
   },
   {
     "hymn": 131,
@@ -5240,10 +5240,10 @@
       "Whiter than snow, yes, whiter than snow,",
       "Now wash me, and I shall be whiter than snow."
     ],
-    "meta_text": "J. Nicholson",
-    "meta_music": "W.G.",
-    "meta_up": "FISCHER",
-    "meta_down": "11.11.11.11. with Refrain."
+    "author": "J. Nicholson",
+    "author_music": "W.G.",
+    "meta_title": "FISCHER",
+    "meta_music": "11.11.11.11. with Refrain."
   },
   {
     "hymn": 132,
@@ -5271,10 +5271,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Larnelle Harris",
-    "meta_music": "Larnelle Harris",
-    "meta_up": "I GIVE ALL TO YOU",
-    "meta_down": "8.8.10.8."
+    "author": "Larnelle Harris",
+    "author_music": "Larnelle Harris",
+    "meta_title": "I GIVE ALL TO YOU",
+    "meta_music": "8.8.10.8."
   },
   {
     "hymn": 133,
@@ -5320,10 +5320,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Rev. F. Bottome",
-    "meta_music": "Asa Hull",
-    "meta_up": "",
-    "meta_down": "C.M."
+    "author": "Rev. F. Bottome",
+    "author_music": "Asa Hull",
+    "meta_title": "",
+    "meta_music": "C.M."
   },
   {
     "hymn": 134,
@@ -5365,10 +5365,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 135,
@@ -5414,10 +5414,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 136,
@@ -5450,10 +5450,10 @@
       "Cling to the cross, the burden will fall,",
       "Christ hath redeemed us once for all."
     ],
-    "meta_text": "Philip P. Bliss",
-    "meta_music": "Philip P. Bliss",
-    "meta_up": "ONCE FOR ALL",
-    "meta_down": "Irregular"
+    "author": "Philip P. Bliss",
+    "author_music": "Philip P. Bliss",
+    "meta_title": "ONCE FOR ALL",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 137,
@@ -5495,10 +5495,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "John R. Macduff",
-    "meta_music": "F.r. Statham",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "John R. Macduff",
+    "author_music": "F.r. Statham",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 138,
@@ -5542,10 +5542,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Charles Albert Tindley",
-    "meta_music": "Arr. By Frederick J. Tindley",
-    "meta_up": "C.A.T.",
-    "meta_down": "Irregular"
+    "author": "Charles Albert Tindley",
+    "author_music": "Arr. By Frederick J. Tindley",
+    "meta_title": "C.A.T.",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 139,
@@ -5578,10 +5578,10 @@
       "Mil-lions grope in dark-ness, wait-ing for Thy Word,",
       "Set my soul a-fire, Lord, set my soul a-fire."
     ],
-    "meta_text": "Gene Bartlett",
-    "meta_music": "Gene Bartlett",
-    "meta_up": "SCALES",
-    "meta_down": "11.11.11.11."
+    "author": "Gene Bartlett",
+    "author_music": "Gene Bartlett",
+    "meta_title": "SCALES",
+    "meta_music": "11.11.11.11."
   },
   {
     "hymn": 140,
@@ -5627,10 +5627,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Harry Emerson Fosdick",
-    "meta_music": "John Hughes",
-    "meta_up": "",
-    "meta_down": "8.7.8.7.8.7.7"
+    "author": "Harry Emerson Fosdick",
+    "author_music": "John Hughes",
+    "meta_title": "",
+    "meta_music": "8.7.8.7.8.7.7"
   },
   {
     "hymn": 141,
@@ -5676,10 +5676,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "William Cowper",
-    "meta_music": "Robert Simpson",
-    "meta_up": "BALERMA.",
-    "meta_down": "C.M."
+    "author": "William Cowper",
+    "author_music": "Robert Simpson",
+    "meta_title": "BALERMA.",
+    "meta_music": "C.M."
   },
   {
     "hymn": 142,
@@ -5718,10 +5718,10 @@
       "Let the Ho-ly Spir-it come and take con-trol,",
       "And send a great re-viv-al in my soul."
     ],
-    "meta_text": "Music: B. B. McKinney",
-    "meta_music": "Music: B. B. McKinney",
-    "meta_up": "",
-    "meta_down": "9.9.9.10. with Refrain"
+    "author": "Music: B. B. McKinney",
+    "author_music": "Music: B. B. McKinney",
+    "meta_title": "",
+    "meta_music": "9.9.9.10. with Refrain"
   },
   {
     "hymn": 143,
@@ -5755,10 +5755,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Sybil F. Partridge",
-    "meta_music": "Horatio R. Palmer",
-    "meta_up": "VINCENT",
-    "meta_down": "8.4.8.4. D."
+    "author": "Sybil F. Partridge",
+    "author_music": "Horatio R. Palmer",
+    "meta_title": "VINCENT",
+    "meta_music": "8.4.8.4. D."
   },
   {
     "hymn": 144,
@@ -5797,10 +5797,10 @@
       "Lord, send a re-viv-al,",
       "And let it be-gin in me."
     ],
-    "meta_text": "Music: B.B. McKinney",
-    "meta_music": "Music: B. B. McKinney",
-    "meta_up": "MATTHEW",
-    "meta_down": "9.9.9.7. with Refrain"
+    "author": "Music: B.B. McKinney",
+    "author_music": "Music: B. B. McKinney",
+    "meta_title": "MATTHEW",
+    "meta_music": "9.9.9.7. with Refrain"
   },
   {
     "hymn": 145,
@@ -5834,10 +5834,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Lucy Larcom",
-    "meta_music": "Arthur S. Sullivan",
-    "meta_up": "ST. EDMUND",
-    "meta_down": "6.4.6.4.6.6.6.4."
+    "author": "Lucy Larcom",
+    "author_music": "Arthur S. Sullivan",
+    "meta_title": "ST. EDMUND",
+    "meta_music": "6.4.6.4.6.6.6.4."
   },
   {
     "hymn": 146,
@@ -5877,10 +5877,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Robert Robinson",
-    "meta_music": "John Wyeth",
-    "meta_up": "NETTLETON",
-    "meta_down": "8.7.8.7. D."
+    "author": "Robert Robinson",
+    "author_music": "John Wyeth",
+    "meta_title": "NETTLETON",
+    "meta_music": "8.7.8.7. D."
   },
   {
     "hymn": 147,
@@ -5922,10 +5922,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "James Montgomery",
-    "meta_music": "Richard Redhead",
-    "meta_up": "REDHEAD 76",
-    "meta_down": "7.7.7.7.7.7."
+    "author": "James Montgomery",
+    "author_music": "Richard Redhead",
+    "meta_title": "REDHEAD 76",
+    "meta_music": "7.7.7.7.7.7."
   },
   {
     "hymn": 148,
@@ -5964,10 +5964,10 @@
       "Once I was blind, but now I can see:",
       "The Light of the world is Je-sus"
     ],
-    "meta_text": "Philip P. Bliss",
-    "meta_music": "Philip P. Bliss",
-    "meta_up": "LIGHT OF THE WORLD",
-    "meta_down": "11.8.11.8. with Refrain"
+    "author": "Philip P. Bliss",
+    "author_music": "Philip P. Bliss",
+    "meta_title": "LIGHT OF THE WORLD",
+    "meta_music": "11.8.11.8. with Refrain"
   },
   {
     "hymn": 149,
@@ -6007,10 +6007,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Mary S. Edgar",
-    "meta_music": "C. Harold Lowden",
-    "meta_up": "GENEVA",
-    "meta_down": "8.5.8.5."
+    "author": "Mary S. Edgar",
+    "author_music": "C. Harold Lowden",
+    "meta_title": "GENEVA",
+    "meta_music": "8.5.8.5."
   },
   {
     "hymn": 150,
@@ -6052,10 +6052,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "William C. Dix",
-    "meta_music": "Conrad Kocher",
-    "meta_up": "DIX",
-    "meta_down": "7.7.7.7.7.7."
+    "author": "William C. Dix",
+    "author_music": "Conrad Kocher",
+    "meta_title": "DIX",
+    "meta_music": "7.7.7.7.7.7."
   },
   {
     "hymn": 151,
@@ -6095,10 +6095,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "Arr. By Loren R. Williams",
-    "meta_up": "DEDICATION",
-    "meta_down": "7.6.8.6.D"
+    "author": "",
+    "author_music": "Arr. By Loren R. Williams",
+    "meta_title": "DEDICATION",
+    "meta_music": "7.6.8.6.D"
   },
   {
     "hymn": 152,
@@ -6138,10 +6138,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Stuart Townend",
-    "meta_music": "Stuart Townend",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Stuart Townend",
+    "author_music": "Stuart Townend",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 153,
@@ -6191,10 +6191,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Robert Grant",
-    "meta_music": "Attr. Johan Michael Hayon",
-    "meta_up": "LYONS",
-    "meta_down": "10.10.11.11"
+    "author": "Robert Grant",
+    "author_music": "Attr. Johan Michael Hayon",
+    "meta_title": "LYONS",
+    "meta_music": "10.10.11.11"
   },
   {
     "hymn": 154,
@@ -6227,10 +6227,10 @@
       "Keep my tongue to speak Thy praise,",
       "Keep me all the way!"
     ],
-    "meta_text": "F. Eiland",
-    "meta_music": "Emmet .S. Dean",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "F. Eiland",
+    "author_music": "Emmet .S. Dean",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 155,
@@ -6297,10 +6297,10 @@
       "Until men in righteousness to Him shall bow",
       "In sweet adoration eternally."
     ],
-    "meta_text": "Peace House Singing Team, Gboko",
-    "meta_music": "Peace House Singing Team, Gboko",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Peace House Singing Team, Gboko",
+    "author_music": "Peace House Singing Team, Gboko",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 156,
@@ -6339,10 +6339,10 @@
       "While on others Thou art calling",
       "Do not pass me by."
     ],
-    "meta_text": "Fanny J. Crosby",
-    "meta_music": "William H. Doanne",
-    "meta_up": "PASS ME NOT",
-    "meta_down": "8.5.8.5 with Refrain"
+    "author": "Fanny J. Crosby",
+    "author_music": "William H. Doanne",
+    "meta_title": "PASS ME NOT",
+    "meta_music": "8.5.8.5 with Refrain"
   },
   {
     "hymn": 157,
@@ -6381,10 +6381,10 @@
       "Redeemed, redeemed",
       "His child and forever I am"
     ],
-    "meta_text": "Fanny J. Crosby",
-    "meta_music": "William J. Kinepratick",
-    "meta_up": "REDEEMED",
-    "meta_down": "9.8.9.8. with Refrain"
+    "author": "Fanny J. Crosby",
+    "author_music": "William J. Kinepratick",
+    "meta_title": "REDEEMED",
+    "meta_music": "9.8.9.8. with Refrain"
   },
   {
     "hymn": 158,
@@ -6435,10 +6435,10 @@
       "Saviour, sanctifier, healer",
       "Baptizer and coming king."
     ],
-    "meta_text": "Albert B. Simpson",
-    "meta_music": "James H. Burke",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Albert B. Simpson",
+    "author_music": "James H. Burke",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 159,
@@ -6464,10 +6464,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 160,
@@ -6517,10 +6517,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "George Duffield, Jr.",
-    "meta_music": "George J. Webb",
-    "meta_up": "WEBB",
-    "meta_down": "7.6.7.6.D."
+    "author": "George Duffield, Jr.",
+    "author_music": "George J. Webb",
+    "meta_title": "WEBB",
+    "meta_music": "7.6.7.6.D."
   },
   {
     "hymn": 161,
@@ -6545,10 +6545,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 162,
@@ -6581,10 +6581,10 @@
       "It is sweet to know as I onward go,",
       "The way of the cross leads home."
     ],
-    "meta_text": "Jessie B. Pounds",
-    "meta_music": "Charles H. Gabriel",
-    "meta_up": "WAY OF THE CROSS",
-    "meta_down": "Irregular"
+    "author": "Jessie B. Pounds",
+    "author_music": "Charles H. Gabriel",
+    "meta_title": "WAY OF THE CROSS",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 163,
@@ -6618,10 +6618,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Charles Wesley",
-    "meta_music": "Carl G. Glaser",
-    "meta_up": "AZMON",
-    "meta_down": "8.6.8.6. (C.M)"
+    "author": "Charles Wesley",
+    "author_music": "Carl G. Glaser",
+    "meta_title": "AZMON",
+    "meta_music": "8.6.8.6. (C.M)"
   },
   {
     "hymn": 164,
@@ -6668,10 +6668,10 @@
       "He will surely bring you out;",
       "Take your burden to the Lord and leave it there."
     ],
-    "meta_text": "C. Albert Tindley",
-    "meta_music": "C. Albert Tindley",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "C. Albert Tindley",
+    "author_music": "C. Albert Tindley",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 165,
@@ -6697,10 +6697,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 166,
@@ -6742,10 +6742,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Anonymous, ITALIAN",
-    "meta_music": "Felice de Giardini",
-    "meta_up": "HYMN",
-    "meta_down": "6.6.4.6.6.6.4."
+    "author": "Anonymous, ITALIAN",
+    "author_music": "Felice de Giardini",
+    "meta_title": "HYMN",
+    "meta_music": "6.6.4.6.6.6.4."
   },
   {
     "hymn": 167,
@@ -6788,10 +6788,10 @@
       "Trust and obey!, For there's no other way",
       "To be happy in Jesus, But to trust and obey."
     ],
-    "meta_text": "John H. Sammis",
-    "meta_music": "Daniel B. Towber",
-    "meta_up": "TRUST AND OBEY",
-    "meta_down": "Irregular"
+    "author": "John H. Sammis",
+    "author_music": "Daniel B. Towber",
+    "meta_title": "TRUST AND OBEY",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 168,
@@ -6831,10 +6831,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "E.H.H.",
-    "meta_music": "E.H.H.",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "E.H.H.",
+    "author_music": "E.H.H.",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 169,
@@ -6868,10 +6868,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Isaac Watts",
-    "meta_music": "Thomas A. Arne",
-    "meta_up": "ARLINGTON",
-    "meta_down": "8.6.8.6. (C.M.)"
+    "author": "Isaac Watts",
+    "author_music": "Thomas A. Arne",
+    "meta_title": "ARLINGTON",
+    "meta_music": "8.6.8.6. (C.M.)"
   },
   {
     "hymn": 170,
@@ -6908,10 +6908,10 @@
       "I surrender all, I surrender all;",
       "All to Thee, my blessed Saviour, I surrender all."
     ],
-    "meta_text": "Judson W. Van De Venter",
-    "meta_music": "Winfield S. Weeden",
-    "meta_up": "SURRENDER",
-    "meta_down": "8.7.8.7. with Refrain"
+    "author": "Judson W. Van De Venter",
+    "author_music": "Winfield S. Weeden",
+    "meta_title": "SURRENDER",
+    "meta_music": "8.7.8.7. with Refrain"
   },
   {
     "hymn": 171,
@@ -6954,10 +6954,10 @@
       "Onward, Christian soldiers! Marching as to war,",
       "With the Cross of Jesus, going on before."
     ],
-    "meta_text": "Sabine Baring-Guild",
-    "meta_music": "Arthur S. Sullivan",
-    "meta_up": "ST. GERTRUDE",
-    "meta_down": "6.5.6.5.D. with Refrain"
+    "author": "Sabine Baring-Guild",
+    "author_music": "Arthur S. Sullivan",
+    "meta_title": "ST. GERTRUDE",
+    "meta_music": "6.5.6.5.D. with Refrain"
   },
   {
     "hymn": 172,
@@ -6990,10 +6990,10 @@
       "To tell the old, old story,",
       "Of Jesus and His love."
     ],
-    "meta_text": "Katherine Hankey",
-    "meta_music": "William G. Fischer",
-    "meta_up": "HANKEY",
-    "meta_down": "7.6.7.6.D"
+    "author": "Katherine Hankey",
+    "author_music": "William G. Fischer",
+    "meta_title": "HANKEY",
+    "meta_music": "7.6.7.6.D"
   },
   {
     "hymn": 173,
@@ -7039,10 +7039,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 174,
@@ -7092,10 +7092,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "William Williams",
-    "meta_music": "John Hughes",
-    "meta_up": "CWM ROHNDDA",
-    "meta_down": "8.7.8.7.8.7.7."
+    "author": "William Williams",
+    "author_music": "John Hughes",
+    "meta_title": "CWM ROHNDDA",
+    "meta_music": "8.7.8.7.8.7.7."
   },
   {
     "hymn": 175,
@@ -7121,10 +7121,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Abikiaje Abel",
-    "meta_music": "Abikiaje Abel",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Abikiaje Abel",
+    "author_music": "Abikiaje Abel",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 176,
@@ -7164,10 +7164,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Joseph Scriven",
-    "meta_music": "Charles C. CONVERSE",
-    "meta_up": "CONVERSE",
-    "meta_down": "8.7.8.7.D"
+    "author": "Joseph Scriven",
+    "author_music": "Charles C. CONVERSE",
+    "meta_title": "CONVERSE",
+    "meta_music": "8.7.8.7.D"
   },
   {
     "hymn": 177,
@@ -7195,10 +7195,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 178,
@@ -7239,10 +7239,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Engene M. Bartlett",
-    "meta_music": "Engene M. Bartlett",
-    "meta_up": "HARTFORD",
-    "meta_down": "Irregular"
+    "author": "Engene M. Bartlett",
+    "author_music": "Engene M. Bartlett",
+    "meta_title": "HARTFORD",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 179,
@@ -7279,10 +7279,10 @@
       "that the line you have crossed,",
       "Have you counted, have you counted the cost?"
     ],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 180,
@@ -7321,10 +7321,10 @@
       "Nothing preventing the least of His favour",
       "Keep thy way clear! Let nothing between"
     ],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 181,
@@ -7358,10 +7358,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Roy H. Corley",
-    "meta_music": "William J. Reynolds",
-    "meta_up": "MCCLARD",
-    "meta_down": ""
+    "author": "Roy H. Corley",
+    "author_music": "William J. Reynolds",
+    "meta_title": "MCCLARD",
+    "meta_music": ""
   },
   {
     "hymn": 182,
@@ -7395,10 +7395,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Lawrence Edmond Schultz",
-    "meta_music": "John B. Dykes",
-    "meta_up": "ST. AGNES",
-    "meta_down": "8.6.8.6. (CM)"
+    "author": "Lawrence Edmond Schultz",
+    "author_music": "John B. Dykes",
+    "meta_title": "ST. AGNES",
+    "meta_music": "8.6.8.6. (CM)"
   },
   {
     "hymn": 183,
@@ -7437,10 +7437,10 @@
       "My only plea, Christ died for me,",
       "Oh take me as I am."
     ],
-    "meta_text": "Eliza H.",
-    "meta_music": "Ira D. Sankey",
-    "meta_up": "Hamilton",
-    "meta_down": "8.8.8.6"
+    "author": "Eliza H.",
+    "author_music": "Ira D. Sankey",
+    "meta_title": "Hamilton",
+    "meta_music": "8.8.8.6"
   },
   {
     "hymn": 184,
@@ -7479,10 +7479,10 @@
       "Grace to serve Thee aright Lord,",
       "O! Grace to love Thee more."
     ],
-    "meta_text": "Ira D. Sankey",
-    "meta_music": "",
-    "meta_up": "S.M.",
-    "meta_down": ""
+    "author": "Ira D. Sankey",
+    "author_music": "",
+    "meta_title": "S.M.",
+    "meta_music": ""
   },
   {
     "hymn": 185,
@@ -7521,10 +7521,10 @@
       "We are waiting, we are waiting;",
       "Oh revive the hearts of all!"
     ],
-    "meta_text": "James L. Black",
-    "meta_music": "Jno. R. Sweney",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "James L. Black",
+    "author_music": "Jno. R. Sweney",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 186,
@@ -7563,10 +7563,10 @@
       "Mercy drops round us are falling,",
       "But for the showers we plead."
     ],
-    "meta_text": "Daniel W. Whittle",
-    "meta_music": "James McGranahan",
-    "meta_up": "SHOWER OF BLESSING",
-    "meta_down": "8.7.8.7 with Refrain"
+    "author": "Daniel W. Whittle",
+    "author_music": "James McGranahan",
+    "meta_title": "SHOWER OF BLESSING",
+    "meta_music": "8.7.8.7 with Refrain"
   },
   {
     "hymn": 187,
@@ -7600,10 +7600,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Walter Chalmers Smith",
-    "meta_music": "Welsh Hymn Melody",
-    "meta_up": "JOANNA",
-    "meta_down": "11.11.11.11"
+    "author": "Walter Chalmers Smith",
+    "author_music": "Welsh Hymn Melody",
+    "meta_title": "JOANNA",
+    "meta_music": "11.11.11.11"
   },
   {
     "hymn": 188,
@@ -7649,10 +7649,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Andrew Reed",
-    "meta_music": "Carl M. Von Weber",
-    "meta_up": "SEYMOUR",
-    "meta_down": "7.7.7.7"
+    "author": "Andrew Reed",
+    "author_music": "Carl M. Von Weber",
+    "meta_title": "SEYMOUR",
+    "meta_music": "7.7.7.7"
   },
   {
     "hymn": 189,
@@ -7703,10 +7703,10 @@
       "Old life is gone, new life reigneth",
       "Live Thy life, O Lord in me."
     ],
-    "meta_text": "Peace House Singing Team, Gboko",
-    "meta_music": "Peace House Singing Team, Gboko",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Peace House Singing Team, Gboko",
+    "author_music": "Peace House Singing Team, Gboko",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 190,
@@ -7757,10 +7757,10 @@
       "Nothing counts but to be with Thee",
       "Then Thy face I see and Thy life received."
     ],
-    "meta_text": "Peace House Singing Team, Gboko",
-    "meta_music": "Peace House Singing Team, Gboko",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Peace House Singing Team, Gboko",
+    "author_music": "Peace House Singing Team, Gboko",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 191,
@@ -7799,10 +7799,10 @@
       "Exercise thy authority on earth;",
       "To thy Lordship now, I humbly bow."
     ],
-    "meta_text": "Peace House Singing Team, Gboko",
-    "meta_music": "Peace House Singing Team, Gboko",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Peace House Singing Team, Gboko",
+    "author_music": "Peace House Singing Team, Gboko",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 192,
@@ -7837,10 +7837,10 @@
       "Oh come to the Father through Jesus the son,",
       "And give Him the glory great things He hath done."
     ],
-    "meta_text": "Fanny J. Crosby",
-    "meta_music": "William H. Doane",
-    "meta_up": "TO GOD BE THE GLORY",
-    "meta_down": "11.11.11.11 with Refrain"
+    "author": "Fanny J. Crosby",
+    "author_music": "William H. Doane",
+    "meta_title": "TO GOD BE THE GLORY",
+    "meta_music": "11.11.11.11 with Refrain"
   },
   {
     "hymn": 193,
@@ -7879,10 +7879,10 @@
       "There my burdened soul found liberty,",
       "At Calvary."
     ],
-    "meta_text": "William R. Newell",
-    "meta_music": "Daniel B. Towner",
-    "meta_up": "CALVARY",
-    "meta_down": "9.9.9.4 with Refrain"
+    "author": "William R. Newell",
+    "author_music": "Daniel B. Towner",
+    "meta_title": "CALVARY",
+    "meta_music": "9.9.9.4 with Refrain"
   },
   {
     "hymn": 194,
@@ -7927,10 +7927,10 @@
       "He is willing to aid you,",
       "He will carry you through."
     ],
-    "meta_text": "Horatio R. Palmer",
-    "meta_music": "Horatio R. Palmer",
-    "meta_up": "PALMER",
-    "meta_down": "6.5.6.5 D. with Refrain"
+    "author": "Horatio R. Palmer",
+    "author_music": "Horatio R. Palmer",
+    "meta_title": "PALMER",
+    "meta_music": "6.5.6.5 D. with Refrain"
   },
   {
     "hymn": 195,
@@ -7960,10 +7960,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "William D. Longstaff",
-    "meta_music": "George C. Stebbins",
-    "meta_up": "HOLINESS",
-    "meta_down": "6.5.6.5.D."
+    "author": "William D. Longstaff",
+    "author_music": "George C. Stebbins",
+    "meta_title": "HOLINESS",
+    "meta_music": "6.5.6.5.D."
   },
   {
     "hymn": 196,
@@ -7979,10 +7979,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 197,
@@ -8052,10 +8052,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Daniel March",
-    "meta_music": "S.P. Grannis",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Daniel March",
+    "author_music": "S.P. Grannis",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 198,
@@ -8077,10 +8077,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 199,
@@ -8103,10 +8103,10 @@
       "Text: Abel Abikaje",
       "Music: Abel Abikaje"
     ],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 200,
@@ -8145,10 +8145,10 @@
       "Jesus, Jesus, precious Jesus",
       "O For grace to trust Him more"
     ],
-    "meta_text": "Louisa M. R. Stead",
-    "meta_music": "William J. Kirkpatrich",
-    "meta_up": "TRUST IN JESUS",
-    "meta_down": "8.7.8.7 with Refrain"
+    "author": "Louisa M. R. Stead",
+    "author_music": "William J. Kirkpatrich",
+    "meta_title": "TRUST IN JESUS",
+    "meta_music": "8.7.8.7 with Refrain"
   },
   {
     "hymn": 201,
@@ -8218,10 +8218,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Frances R. Havergal",
-    "meta_music": "Philip P. Blisss",
-    "meta_up": "KENOSIS",
-    "meta_down": "Irregular"
+    "author": "Frances R. Havergal",
+    "author_music": "Philip P. Blisss",
+    "meta_title": "KENOSIS",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 202,
@@ -8275,10 +8275,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Martin Luther",
-    "meta_music": "Martin Luther",
-    "meta_up": "EIN\u2019 FESTE BURG",
-    "meta_down": "8.7.8.7.6.6.6.6.7"
+    "author": "Martin Luther",
+    "author_music": "Martin Luther",
+    "meta_title": "EIN\u2019 FESTE BURG",
+    "meta_music": "8.7.8.7.6.6.6.6.7"
   },
   {
     "hymn": 203,
@@ -8306,10 +8306,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Abel Abikiaje",
-    "meta_music": "Abel Abikiaje",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Abel Abikiaje",
+    "author_music": "Abel Abikiaje",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 204,
@@ -8342,10 +8342,10 @@
       "I'd rather have Jesus than anything,",
       "this world affords today."
     ],
-    "meta_text": "Rhea F. Miller",
-    "meta_music": "George Beverly Shea",
-    "meta_up": "SHEA",
-    "meta_down": "11.11.11.10 with Refrain"
+    "author": "Rhea F. Miller",
+    "author_music": "George Beverly Shea",
+    "meta_title": "SHEA",
+    "meta_music": "11.11.11.10 with Refrain"
   },
   {
     "hymn": 205,
@@ -8391,10 +8391,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Lewis Hensley",
-    "meta_music": "Leighton G. Hayne",
-    "meta_up": "ST. CECILIA",
-    "meta_down": ""
+    "author": "Lewis Hensley",
+    "author_music": "Leighton G. Hayne",
+    "meta_title": "ST. CECILIA",
+    "meta_music": ""
   },
   {
     "hymn": 206,
@@ -8434,10 +8434,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Isaac Watts",
-    "meta_music": "John Hatton",
-    "meta_up": "DUKE STREET",
-    "meta_down": "8.8.8.8. (LM)"
+    "author": "Isaac Watts",
+    "author_music": "John Hatton",
+    "meta_title": "DUKE STREET",
+    "meta_music": "8.8.8.8. (LM)"
   },
   {
     "hymn": 207,
@@ -8479,10 +8479,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "B. B. McKinney",
-    "meta_music": "B. B. McKinney",
-    "meta_up": "CHRISTIAN HOME",
-    "meta_down": "Irregular"
+    "author": "B. B. McKinney",
+    "author_music": "B. B. McKinney",
+    "meta_title": "CHRISTIAN HOME",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 208,
@@ -8532,10 +8532,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "William Walford",
-    "meta_music": "William B. Bradbury",
-    "meta_up": "SWEET HOUR",
-    "meta_down": "8.8.8.8.D (L.M.D.)"
+    "author": "William Walford",
+    "author_music": "William B. Bradbury",
+    "meta_title": "SWEET HOUR",
+    "meta_music": "8.8.8.8.D (L.M.D.)"
   },
   {
     "hymn": 209,
@@ -8555,10 +8555,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 210,
@@ -8601,10 +8601,10 @@
       "That sinners be converted",
       "And Thy name glorified!"
     ],
-    "meta_text": "Charles H. Gabriel",
-    "meta_music": "Charles H. Gabriel",
-    "meta_up": "OLD-TIME POWER",
-    "meta_down": "8.6.8.6 (C) With Refrain"
+    "author": "Charles H. Gabriel",
+    "author_music": "Charles H. Gabriel",
+    "meta_title": "OLD-TIME POWER",
+    "meta_music": "8.6.8.6 (C) With Refrain"
   },
   {
     "hymn": 211,
@@ -8646,10 +8646,10 @@
       "Praise Him! praise Him!",
       "Ever in joyful song!"
     ],
-    "meta_text": "Fanny J. Crosby",
-    "meta_music": "Chester G. Allen",
-    "meta_up": "JOYFUL SONG",
-    "meta_down": "Irregular"
+    "author": "Fanny J. Crosby",
+    "author_music": "Chester G. Allen",
+    "meta_title": "JOYFUL SONG",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 212,
@@ -8688,10 +8688,10 @@
       "Fastened to the Rock which cannot move,",
       "Grounded firm and deep in the Saviour's love!"
     ],
-    "meta_text": "Pricilla J. Owens",
-    "meta_music": "William J. Kirpartric",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Pricilla J. Owens",
+    "author_music": "William J. Kirpartric",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 213,
@@ -8724,10 +8724,10 @@
       "Burdens are lifted at Calvary,",
       "Jesus is very near"
     ],
-    "meta_text": "John M. Moore",
-    "meta_music": "John M. Moore",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "John M. Moore",
+    "author_music": "John M. Moore",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 214,
@@ -8766,10 +8766,10 @@
       "I'll love Him, I'll serve Him with all that I have",
       "As long as my life shall endure."
     ],
-    "meta_text": "T.O. Chislom",
-    "meta_music": "Jesse B. Thomas",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "T.O. Chislom",
+    "author_music": "Jesse B. Thomas",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 215,
@@ -8802,10 +8802,10 @@
       "Ruling and reigning day after day",
       "Guiding and keeping all of the way."
     ],
-    "meta_text": "Rev. T. Ryder",
-    "meta_music": "William J. Kirpatrick",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Rev. T. Ryder",
+    "author_music": "William J. Kirpatrick",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 216,
@@ -8848,10 +8848,10 @@
       "I just want to be,",
       "I just want to be with You"
     ],
-    "meta_text": "Don Moen",
-    "meta_music": "Don Moen",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Don Moen",
+    "author_music": "Don Moen",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 217,
@@ -8884,10 +8884,10 @@
       "Daily walking close to Thee,",
       "Let it be, dear Lord, let it be."
     ],
-    "meta_text": "Anonymous",
-    "meta_music": "Anonymous",
-    "meta_up": "CLOSER WALK",
-    "meta_down": "Irregular"
+    "author": "Anonymous",
+    "author_music": "Anonymous",
+    "meta_title": "CLOSER WALK",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 218,
@@ -8927,10 +8927,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Martins Rinkart",
-    "meta_music": "Johann Cruger",
-    "meta_up": "NUN DANKET",
-    "meta_down": "Irregular"
+    "author": "Martins Rinkart",
+    "author_music": "Johann Cruger",
+    "meta_title": "NUN DANKET",
+    "meta_music": "Irregular"
   },
   {
     "hymn": 219,
@@ -8962,10 +8962,10 @@
       "Father, Father, Father",
       "Spirit, Spirit, Spirit"
     ],
-    "meta_text": "Jimmy Swaggart",
-    "meta_music": "Jimmy Swaggart",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "Jimmy Swaggart",
+    "author_music": "Jimmy Swaggart",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 220,
@@ -9004,10 +9004,10 @@
       "It is enough that Jesus died",
       "And that He died for me."
     ],
-    "meta_text": "Lidie H. Edmunds",
-    "meta_music": "William James Kirkpatrick",
-    "meta_up": "LANDAS",
-    "meta_down": "8.6.8.6."
+    "author": "Lidie H. Edmunds",
+    "author_music": "William James Kirkpatrick",
+    "meta_title": "LANDAS",
+    "meta_music": "8.6.8.6."
   },
   {
     "hymn": 221,
@@ -9041,10 +9041,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Isaac Williams",
-    "meta_music": "Isaac Smith",
-    "meta_up": "ABRIDGE",
-    "meta_down": "8.68.6"
+    "author": "Isaac Williams",
+    "author_music": "Isaac Smith",
+    "meta_title": "ABRIDGE",
+    "meta_music": "8.68.6"
   },
   {
     "hymn": 222,
@@ -9060,10 +9060,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "",
-    "meta_music": "",
-    "meta_up": "",
-    "meta_down": ""
+    "author": "",
+    "author_music": "",
+    "meta_title": "",
+    "meta_music": ""
   },
   {
     "hymn": 223,
@@ -9097,10 +9097,10 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "Charles Wesley",
-    "meta_music": "Lowell Mason",
-    "meta_up": "BOYLSTON",
-    "meta_down": "SM"
+    "author": "Charles Wesley",
+    "author_music": "Lowell Mason",
+    "meta_title": "BOYLSTON",
+    "meta_music": "SM"
   },
   {
     "hymn": 224,
@@ -9145,10 +9145,10 @@
       "Hallelujah! Thine the glory.",
       "Revive us again."
     ],
-    "meta_text": "William P. Mackay",
-    "meta_music": "John J. Husband",
-    "meta_up": "REVIVE US AGAIN",
-    "meta_down": "11.11 with Refrain"
+    "author": "William P. Mackay",
+    "author_music": "John J. Husband",
+    "meta_title": "REVIVE US AGAIN",
+    "meta_music": "11.11 with Refrain"
   },
   {
     "hymn": 225,
@@ -9188,9 +9188,9 @@
       ]
     ],
     "chorus": [],
-    "meta_text": "William H. Bathurst",
-    "meta_music": "John B. Dykes",
-    "meta_up": "ST. AGNES",
-    "meta_down": "C.M"
+    "author": "William H. Bathurst",
+    "author_music": "John B. Dykes",
+    "meta_title": "ST. AGNES",
+    "meta_music": "C.M"
   }
 ]

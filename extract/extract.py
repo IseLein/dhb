@@ -38,10 +38,10 @@ def export_to_file(hymn, title, bible_ref, key, verses, chorus, meta_text, meta_
                 file.write(',\n')
         file.write('],\n')
         file.write('"chorus": "' + chorus + '",\n')
-        file.write('"meta_text": "' + meta_text + '",\n')
-        file.write('"meta_music": "' + meta_music + '",\n')
-        file.write('"meta_up": "' + meta_up + '",\n')
-        file.write('"meta_down": "' + meta_down + '"\n')
+        file.write('"author": "' + meta_text + '",\n')
+        file.write('"author_music": "' + meta_music + '",\n')
+        file.write('"meta_title": "' + meta_up + '",\n')
+        file.write('"meta_music": "' + meta_down + '"\n')
         file.write('}')
 
 hymns = []
