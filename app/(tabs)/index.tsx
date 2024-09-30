@@ -1,6 +1,7 @@
 
 import { useState, useRef } from "react";
 import { Text, View, StyleSheet, Pressable, TextInput, Animated, StatusBar, ViewStyle } from "react-native";
+import { router } from "expo-router";
 import type { Hymn } from "@/types";
 import { formatCase } from "@/utils";
 import { TabBarIcon } from "@/components/navigation/TabBarIcon";
@@ -18,7 +19,7 @@ export default function HomeScreen() {
     const displayedHymns = hymnsJson.filter(hymn => {
         return hymn.title.toLowerCase().includes(searchQuery.toLowerCase())
             || hymn.hymn.toString().includes(searchQuery.toLowerCase())
-            || hymn.verses.flat().join(" ").toLowerCase().includes(searchQuery.toLowerCase())
+            || hymn.verses.join(" ").toLowerCase().includes(searchQuery.toLowerCase())
             || hymn.chorus?.join(" ").toLowerCase().includes(searchQuery.toLowerCase());
     });
 
@@ -80,8 +81,31 @@ type HymnCardProps = {
 }
 
 function HymnCard({ hymn }: HymnCardProps) {
+    function pressableStyle({ pressed }: StyleProps) {
+      let style: ViewStyle = {
+        display: 'flex',
+        flexDirection: 'row',
+        paddingVertical: 10,
+        paddingHorizontal: 10,
+      };
+      if (pressed) {
+        style = {
+          ...style,
+          backgroundColor: '#f0f0f0',
+        };
+      }
+      return style;
+    }
+
+    const routeParams = {
+        ...hymn,
+        verses: JSON.stringify(hymn.verses),
+        chorus: hymn.chorus?.join("\n"),
+    };
+
     return (
-        <Pressable style={pressableStyle} android_ripple={{ borderless: false }}>
+        <Pressable style={pressableStyle} android_ripple={{ borderless: false }}
+            onPress={() => router.push({ pathname: '/hymn_page', params: routeParams })}>
             <TabBarIcon style={{paddingHorizontal: 10, textAlignVertical: 'center' }} name={'music'} />
             <Text style={styles.hymnText} numberOfLines={1} ellipsizeMode="tail">{hymn.hymn}. {formatCase(hymn.title)}</Text>
         </Pressable>
@@ -92,21 +116,6 @@ type StyleProps = {
     pressed: boolean;
 };
 
-function pressableStyle({ pressed }: StyleProps) {
-  let style: ViewStyle = {
-    display: 'flex',
-    flexDirection: 'row',
-    paddingVertical: 10,
-    paddingHorizontal: 10,
-  };
-  if (pressed) {
-    style = {
-      ...style,
-      backgroundColor: '#f0f0f0',
-    };
-  }
-  return style;
-}
 
 const styles = StyleSheet.create({
   container: {
