@@ -1,5 +1,5 @@
 
-import { View, Text, StyleSheet } from "react-native";
+import { View, Text, ScrollView, StyleSheet } from "react-native";
 import { useLocalSearchParams } from "expo-router";
 import { useNavigation } from "expo-router";
 import { useEffect } from "react";
@@ -18,9 +18,27 @@ export default function HymnPage() {
   }, []);
 
   return (
-    <View>
-      <Text>{hymn.title}</Text>
-      <Text>{hymn.verses}</Text>
+    <ScrollView style={styles.page}>
+      <Verse verse={hymn.verses[0]} verse_number={1} />
+      {/* chorus could be [''] */}
+      {hymn.chorus && hymn.chorus[0] !== '' && <Text style={styles.chorus}>{hymn.chorus.join("\n")}</Text>}
+      {hymn.verses.slice(1).map((verse, index) => (
+        <Verse verse={verse} verse_number={index + 2} key={index} />
+      ))}
+    </ScrollView>
+  );
+}
+
+type VerseProps = {
+  verse: string;
+  verse_number: number;
+};
+
+function Verse({ verse, verse_number }: VerseProps) {
+  return (
+    <View style={styles.verse}>
+      <Text style={styles.number}>{`${verse_number}. `}</Text>
+      <Text style={styles.text}>{verse}</Text>
     </View>
   );
 }
@@ -39,5 +57,30 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
+  },
+  page: {
+    paddingVertical: 10,
+  },
+  verse: {
+    paddingHorizontal: 20,
+    paddingVertical: 10,
+  },
+  number: {
+    textAlign: "center",
+    fontSize: 20,
+    fontWeight: "bold",
+    fontStyle: "italic",
+    fontFamily: "serif",
+  },
+  text: {
+    textAlign: "center",
+    fontSize: 18,
+  },
+  chorus: {
+    textAlign: "center",
+    fontSize: 18,
+    fontWeight: "bold",
+    fontStyle: "italic",
+    paddingVertical: 10,
   },
 });
